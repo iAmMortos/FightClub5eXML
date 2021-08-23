@@ -2387,7 +2387,7 @@
       </action>
     <action>
         <name>Bite</name>
-      <text>Melee Weapon Attack: +0 to hit, reach 0 ft., plus 18 (4d8 + 0) radiant damage.Melee Weapon Attack: +0 to hit, reach 0 ft., Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit.11 (1d8 + 7) piercing damage</text>
+      <text>Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit.11 (1d8 + 7) piercing damage plus 18 (4d8) radiant damage.</text>
       <attack>Bite|0|4d8+0</attack>
       <attack>Bite|0|1d8+7</attack>
       </action>
@@ -6698,9 +6698,13 @@
       </trait>
     <action>
         <name>Lance</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 10 ft., one target. 8 (1d12 + 2) piercing damage. Heavy Crossbow. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. 6 (1d10 + 1) piercing damage.</text>
+      <text>Melee Weapon Attack: +4 to hit, reach 10 ft., one target. 8 (1d12 + 2) piercing damage.</text>
       <attack>Lance|4|1d12+2</attack>
-      <attack>Lance|3|1d10+1</attack>
+      </action>
+      <action>
+          <name>Heavy Crossbow</name>
+          <text>Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. 6 (1d10 + 1) piercing damage.</text>
+          <attack>Heavy Crossbow|3|1d10+1</attack>
       </action>
     <action>
         <name>Trample (Mounted Only)</name>
@@ -6748,9 +6752,13 @@
       </trait>
     <action>
         <name>Cavalry Saber</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage. Shortbow. Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. 4 (1d6 + 1) piercing damage.</text>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage.</text>
       <attack>Cavalry Saber|4|1d6+2</attack>
-      <attack>Cavalry Saber|3|1d6+1</attack>
+      </action>
+      <action>
+          <name>Shortbow</name>
+          <text>Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. 4 (1d6 + 1) piercing damage.</text>
+          <attack>Shortbow|3|1d6+1</attack>
       </action>
     <action>
         <name>Fire Breath (Recharges after a Short or Long Rest)</name>
@@ -6798,9 +6806,13 @@
       </action>
     <action>
         <name>Greatsword</name>
-      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage plus 3 (1d6) fire damage.Heavy Crossbow. Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. 9 (1d10 + 4) piercing damage.</text>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage plus 3 (1d6) fire damage.</text>
       <attack>Greatsword|8|2d6+4</attack>
-      <attack>Greatsword|5|1d10+4</attack>
+      </action>
+      <action>
+          <name>Heavy Crossbow</name>
+          <text>Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. 9 (1d10 + 4) piercing damage.</text>
+          <attack>Heavy Crossbow|5|1d10+4</attack>
       </action>
     <action>
         <name>Fire Breath (Recharge after a Short or Long Rest)</name>
@@ -10920,6 +10932,7 @@
     <cr>10</cr>
     <resist></resist>
     <immune></immune>
+    <description>Source: CCodex (3pp)</description>
     </monster>
   <monster>
       <name>Fractal Golem</name>
@@ -10942,6 +10955,7 @@
     <cr>8</cr>
     <resist></resist>
     <immune></immune>
+    <description>Source: CCodex (3pp)</description>
     </monster>
   <monster>
       <name>Glass Golem</name>
@@ -12766,9 +12780,13 @@
       </action>
     <action>
         <name>Bite</name>
-      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 21 (3d10 + 5) piercing damage Constrict. Melee Weapon Attack: +8 to hit, reach 5 ft., one Large or smaller creature. 10 (1d10 + 5) bludgeoning damage and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained and the jaanavar jal can't constrict another creature.</text>
+      <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 21 (3d10 + 5) piercing damage.</text>
       <attack>Bite|8|3d10+5</attack>
-      <attack>Bite|8|1d10+5</attack>
+      </action>
+      <action>
+          <name>Constrict</name>
+          <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one Large or smaller creature. 10 (1d10 + 5) bludgeoning damage and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained and the jaanavar jal can't constrict another creature.</text>
+          <attack>Constrict|8|1d10+5</attack>
       </action>
     <action>
         <name>Flaming Oil Spittle (Recharge 5-6)</name>
@@ -13537,9 +13555,14 @@
       </action>
     <action>
         <name>Bite</name>
-      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 14 (2d8 + 5) bludgeoning damage Quarterstaff. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 8 (1d6 + 5) bludgeoning damage, or 9 (1d8 + 5) bludgeoning damage if used with two hands.</text>
+      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 14 (2d8 + 5) bludgeoning damage.</text>
       <attack>Bite|8|2d8+5</attack>
-      <attack>Bite|8|1d6+5</attack>
+      </action>
+      <action>
+          <name>Quarterstaff</name>
+          <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 8 (1d6 + 5) bludgeoning damage, or 9 (1d8 + 5) bludgeoning damage if used with two hands.</text>
+          <attack>Quarterstaff|8|1d6+5</attack>
+          <attack>Quarterstaff (2H)|8|1d8+5</attack>
       </action>
     <reaction>
         <name>Haunting Vision</name>
