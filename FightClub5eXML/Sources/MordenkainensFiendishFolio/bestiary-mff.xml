@@ -423,7 +423,7 @@ Source: Mordenkainen’s Fiendish Folio p. 9</description>
       </trait>
     <action>
         <name>Club</name>
-      <text>Melee Weapon Attack: +-1 to hit, reach 5 ft., one target. 1 (1d4 - 3) bludgeoning damage.</text>
+      <text>Melee Weapon Attack: -1 to hit, reach 5 ft., one target. 1 (1d4 - 3) bludgeoning damage.</text>
       <attack>Club|-1|1d4-3</attack>
       </action>
     <action>
@@ -515,7 +515,7 @@ Source: Mordenkainen’s Fiendish Folio p. 12</description>
     <senses></senses>
     <action>
         <name>Slam</name>
-      <text>Melee Weapon Attack: +-1 to hit, reach 5 ft., one target. 1 bludgeoning damage.</text>
+      <text>Melee Weapon Attack: -1 to hit, reach 5 ft., one target. 1 bludgeoning damage.</text>
       </action>
     <action>
         <name>Blessing of Bountiful Generosity (1/Day)</name>

@@ -2523,7 +2523,7 @@ Source: Explorer's Guide to Wildemount p. 300</description>
       </action>
     <action>
         <name>Claws</name>
-      <text>Melee Weapon Attack: ++4 to hit, reach 5 ft., one target. 4 (1d4 +2) slashing damage.</text>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 +2) slashing damage.</text>
       <attack>Claws|+4|1d4+2</attack>
       </action>
     <reaction>
