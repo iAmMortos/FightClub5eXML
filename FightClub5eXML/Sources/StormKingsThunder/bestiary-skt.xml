@@ -2105,7 +2105,7 @@ Source: Storm King's Thunder p. 127</description>
       </action>
     <action>
         <name>Icy Web (Recharge 5-6)</name>
-      <text>Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. The target is restrained by webbing, and takes 2 (1d4) cold damage at the start of each of its turns. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to poison, and psychic damage).</text>
+      <text>Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing, and takes 2 (1d4) cold damage at the start of each of its turns. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to poison, and psychic damage).</text>
       <attack>Icy Web (Recharge 5-6)|+5|1d4</attack>
       </action>
     <description>
@@ -5064,7 +5064,7 @@ Source: Storm King's Thunder p. 221</description>
     <senses>darkvision 60 ft.</senses>
     <action>
         <name>Bite</name>
-      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., 18 (4d6 + 4) piercing damage.</text>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 18 (4d6 + 4) piercing damage.</text>
       <attack>Bite|+7|4d6+4</attack>
       </action>
     <action>

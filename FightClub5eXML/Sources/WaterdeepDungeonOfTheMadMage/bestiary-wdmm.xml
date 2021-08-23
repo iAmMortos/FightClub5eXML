@@ -804,7 +804,7 @@ Source: Waterdeep: Dungeon of the Mad Mage p. 171</description>
       </action>
     <action>
         <name>Extract Brain</name>
-      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by Captain N'ghathrod. The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, Captain N'ghathrod kills the target by extracting and devouring its brain.</text>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by Captain N'ghathrod. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, Captain N'ghathrod kills the target by extracting and devouring its brain.</text>
       <attack>Extract Brain|+7|10d10</attack>
       </action>
     <action>

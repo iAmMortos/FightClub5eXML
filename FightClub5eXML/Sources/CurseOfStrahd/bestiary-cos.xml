@@ -3811,7 +3811,7 @@ Source: Curse of Strahd p. 217</description>
       </action>
     <action>
         <name>Grasping Root</name>
-      <text>Melee Weapon Attack: +9 to hit, reach 15 ft., one creature not grappled by the blight. The target is grappled (escape DC 15). Until the grapple ends, the target takes 9 (1d6 + 6) bludgeoning damage at the start of each of its turns. The root has AC 15 and can be severed by dealing 6 slashing damage or more to it at once. Cutting the root doesn't hurt the blight, but ends the grapple.</text>
+      <text>Melee Weapon Attack: +9 to hit, reach 15 ft., one creature not grappled by the blight. Hit: The target is grappled (escape DC 15). Until the grapple ends, the target takes 9 (1d6 + 6) bludgeoning damage at the start of each of its turns. The root has AC 15 and can be severed by dealing 6 slashing damage or more to it at once. Cutting the root doesn't hurt the blight, but ends the grapple.</text>
       <attack>Grasping Root|+9|1d6+6</attack>
       </action>
     <description>Blights (as described in the Monster Manual) are evil, ambulatory plant creatures, and a tree blight is a particularly enormous variety. It looks like a dead tree or treant, 30 feet tall, with spongy wooden flesh, thorny branches, and rubbery roots that trail behind it. It has blood for sap and is so saturated with blood that it doesn't catch fire easily.

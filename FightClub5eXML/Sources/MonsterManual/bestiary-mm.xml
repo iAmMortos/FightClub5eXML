@@ -13335,7 +13335,7 @@ Source: Monster Manual p. 347, Curse of Strahd, Hoard of the Dragon Queen, Princ
       </action>
     <action>
         <name>Spit Poison</name>
-      <text>Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.</text>
+      <text>Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Spit Poison|+8|10d8</attack>
       </action>
     <trait>
@@ -17289,7 +17289,7 @@ Source: Monster Manual p. 220, Curse of Strahd, Tomb of Annihilation, Waterdeep:
       </action>
     <action>
         <name>Extract Brain</name>
-      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.</text>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.</text>
       <attack>Extract Brain|+7|10d10</attack>
       </action>
     <action>
@@ -17354,7 +17354,7 @@ Source: Monster Manual p. 222, Tales from the Yawning Portal, Waterdeep: Dragon 
       </action>
     <action>
         <name>Extract Brain</name>
-      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.</text>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.</text>
       <attack>Extract Brain|+7|10d10</attack>
       </action>
     <action>
@@ -21064,7 +21064,7 @@ Source: Monster Manual p. 261, Hoard of the Dragon Queen, Princes of the Apocaly
       </trait>
     <action>
         <name>Smother</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature. The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.</text>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature. Hit: The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.</text>
       <attack>Smother|+5|2d6+3</attack>
       </action>
     <description>Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.

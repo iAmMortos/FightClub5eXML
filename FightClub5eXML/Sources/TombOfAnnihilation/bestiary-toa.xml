@@ -297,7 +297,7 @@ Source: Tomb of Annihilation p. 211</description>
       </trait>
     <action>
         <name>Tail</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one target 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.</text>
+      <text>Melee Weapon Attack: +6 to hit, reach 10 ft., one target. 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.</text>
       <attack>Tail|+6|4d6+4</attack>
       </action>
     <description>Several new zombie variants are presented below. For more information on zombies, see the Monster Manual.
@@ -351,7 +351,7 @@ Source: Tomb of Annihilation p. 240</description>
       </action>
     <action>
         <name>Longbow</name>
-      <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target 6 (1d8 + 2) piercing damage.</text>
+      <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage.</text>
       <attack>Longbow|+5|1d8+2</attack>
       </action>
     <action>
@@ -463,7 +463,7 @@ Source: Tomb of Annihilation p. 69</description>
       </trait>
     <action>
         <name>Constrict</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 20 ft., one creature. The target takes 11 (2d6 + 4) bludgeoning damage, and it is grappled (escape DC 14). Until this grapple ends, the target is restrained, and it takes 21 (6d6) poison damage at the start of each of its turns. The vine can constrict only one target at a time.</text>
+      <text>Melee Weapon Attack: +6 to hit, reach 20 ft., one creature. Hit: The target takes 11 (2d6 + 4) bludgeoning damage, and it is grappled (escape DC 14). Until this grapple ends, the target is restrained, and it takes 21 (6d6) poison damage at the start of each of its turns. The vine can constrict only one target at a time.</text>
       <attack>Constrict|+6|2d6+4</attack>
       </action>
     <action>
@@ -1018,7 +1018,7 @@ Source: Tomb of Annihilation p. 64</description>
       </action>
     <action>
         <name>Beak</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target 5 (1d4 + 3) piercing damage.</text>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) piercing damage.</text>
       <attack>Beak|+5|1d4+3</attack>
       </action>
     <trait>
@@ -1415,7 +1415,7 @@ Source: Tomb of Annihilation p. 35</description>
       </trait>
     <action>
         <name>Bite</name>
-      <text>Melee Weapon Attack: +1 to hit, reach 5 ft., one target 1 (1d4 - 1) piercing damage.</text>
+      <text>Melee Weapon Attack: +1 to hit, reach 5 ft., one target. 1 (1d4 - 1) piercing damage.</text>
       <attack>Bite|+1|1d4-1</attack>
       </action>
     <description>Flying monkeys are slightly more clever and curious than common monkeys, and they can be domesticated and taught to obey simple commands. They come in many colors and varieties, with feathered wings that have a span of about 5 feet. With the DM's permission, the find familiar spell can summon a flying monkey.
@@ -2292,7 +2292,7 @@ Source: Tomb of Annihilation p. 227, Baldur's Gate: Descent Into Avernus</descri
       </trait>
     <action>
         <name>Engulf</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or smaller creature. The target is trapped inside the mantrap's leafy jaws. While trapped in this way, the target is blinded and restrained, has total cover from an attacks and other effects outside the mantrap, and takes 14 (4d6) acid damage at the start of each of the target's turns. If the mantrap dies, the creature inside it is no longer restrained by it. A mantrap can engulf only one creature at a time.</text>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or smaller creature. Hit: The target is trapped inside the mantrap's leafy jaws. While trapped in this way, the target is blinded and restrained, has total cover from an attacks and other effects outside the mantrap, and takes 14 (4d6) acid damage at the start of each of the target's turns. If the mantrap dies, the creature inside it is no longer restrained by it. A mantrap can engulf only one creature at a time.</text>
       <attack>Engulf|+4|4d6</attack>
       </action>
     <description>A mantrap is a giant carnivorous plant that resembles an oversized flytrap. To attract prey, the mantrap releases a pollen that magically draws creatures to it. Though it will snap its leafy jaws shut around any warm-blooded creature that strays within its reach, it prefers humanoid prey.

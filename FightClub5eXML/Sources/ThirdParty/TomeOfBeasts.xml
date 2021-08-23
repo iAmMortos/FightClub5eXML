@@ -432,7 +432,7 @@
 		</trait>
 		<action>
 			<name>Quarterstaff</name>
-			<text>Melee Weapon Attack: +3 to hit (+5 with shillelagh), reach 5 ft., one creature.Hit: 4 (1d6 + 1) bludgeoning damage or 5 (1d8 + 1) bludgeoning damage if used in two hands, or 7 (1d8 + 3) bludgeoning damage with shillelagh.</text>
+			<text>Melee Weapon Attack: +3 to hit (+5 with shillelagh), reach 5 ft., one creature. Hit: 4 (1d6 + 1) bludgeoning damage or 5 (1d8 + 1) bludgeoning damage if used in two hands, or 7 (1d8 + 3) bludgeoning damage with shillelagh.</text>
 			<attack>Quarterstaff|3|1d6+1</attack>
 		</action>
 		<action>
@@ -4457,7 +4457,7 @@
 		</action>
 		<action>
 			<name>Heavy Crossbow</name>
-			<text>Ranged Weapon Attack: +7 to hit, range 100/400 ft., one target, Hit: 9 (1d10 + 4) piercing damage plus 9 (2d8) necrotic damage.</text>
+			<text>Ranged Weapon Attack: +7 to hit, range 100/400 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 9 (2d8) necrotic damage.</text>
 			<attack>Heavy Crossbow|7|1d10+4</attack>
 		</action>
 		<action>
