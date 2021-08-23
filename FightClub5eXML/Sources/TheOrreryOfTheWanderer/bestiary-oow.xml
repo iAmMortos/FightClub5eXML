@@ -783,7 +783,7 @@ Source: The Orrery of the Wanderer p. 92</description>
       </action>
     <action>
         <name>Claws</name>
-      <text>Melee Weapon Attack: ++2 to hit, reach 5 ft., one target. 2 (1d4) slashing damage.</text>
+      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) slashing damage.</text>
       <attack>Claws|+2|1d4</attack>
       </action>
     <description>

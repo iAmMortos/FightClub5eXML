@@ -594,8 +594,7 @@ Source: Waterdeep: Dragon Heist p. 20</description>
       </trait>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+5|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 +2) piercing damage.</text>
       <attack>Dagger|+5|1d4+2</attack>
       </action>
     <trait>
@@ -968,8 +967,7 @@ Source: Waterdeep: Dragon Heist p. 42</description>
       </trait>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) piercing damage. Or Ranged Weapon Attack: +2 to hit, range 20/60 ft., one target. 2 (1d4) piercing damage.</text>
-      <attack>Dagger|+2|1d4</attack>
+      <text>Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. 2 (1d4) piercing damage.</text>
       <attack>Dagger|+2|1d4</attack>
       </action>
     <trait>
@@ -1232,8 +1230,7 @@ Source: Waterdeep: Dragon Heist p. 152</description>
       </action>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+4|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+4|1d4+2</attack>
       </action>
     <action>
@@ -1327,8 +1324,7 @@ Source: Waterdeep: Dragon Heist p. 65</description>
       </trait>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) piercing damage. Or Ranged Weapon Attack: +2 to hit, range 20/60 ft., one target. 2 (1d4) piercing damage.</text>
-      <attack>Dagger|+2|1d4</attack>
+      <text>Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. 2 (1d4) piercing damage.</text>
       <attack>Dagger|+2|1d4</attack>
       </action>
     <trait>
@@ -1439,7 +1435,7 @@ Source: Waterdeep: Dragon Heist p. 83</description>
       </action>
     <action>
         <name>Quivering Palm (Recharge 6)</name>
-      <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. The target must make a DC 18 Constitution saving throw. On a failed save, the target is reduced to 0 hit points. On a successful save, the target takes 55 (10d10) necrotic damage.</text>
+      <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: The target must make a DC 18 Constitution saving throw. On a failed save, the target is reduced to 0 hit points. On a successful save, the target takes 55 (10d10) necrotic damage.</text>
       <attack>Quivering Palm (Recharge 6)|+12|10d10</attack>
       </action>
     <action>
@@ -1636,8 +1632,7 @@ Source: Waterdeep: Dragon Heist p. 199</description>
       </action>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+4|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+4|1d4+2</attack>
       </action>
     <reaction>
@@ -1684,8 +1679,7 @@ Source: Waterdeep: Dragon Heist p. 205</description>
       </action>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60 ft., one creature. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+4|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+4|1d4+2</attack>
       </action>
     <trait>
@@ -1864,8 +1858,7 @@ Source: Waterdeep: Dragon Heist p. 63</description>
       </trait>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+5|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+5|1d4+2</attack>
       </action>
     <trait>
@@ -2168,8 +2161,7 @@ Source: Waterdeep: Dragon Heist p. 207</description>
       </action>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60 ft., one creature. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+4|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+4|1d4+2</attack>
       </action>
     <trait>
@@ -2224,8 +2216,7 @@ Source: Waterdeep: Dragon Heist p. 116</description>
       </trait>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+5|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+5|1d4+2</attack>
       </action>
     <trait>
@@ -2319,8 +2310,7 @@ Source: Waterdeep: Dragon Heist p. 82</description>
       </trait>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+5|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+5|1d4+2</attack>
       </action>
     <trait>
@@ -2735,10 +2725,14 @@ Source: Waterdeep: Dragon Heist p. 210</description>
       <attack>+1 Longsword|+9|2d8+5</attack>
       </action>
     <action>
-        <name>+1 Dagger</name>
-      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 10 (2d4 + 5) piercing damage. Or Ranged Weapon Attack: +9 to hit, range 20/60 ft., one target. 7 (1d4 + 5) piercing damage.</text>
+        <name>+1 Dagger (Melee)</name>
+      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 10 (2d4 + 5) piercing damage.</text>
       <attack>+1 Dagger|+9|2d4+5</attack>
-      <attack>+1 Dagger|+9|1d4+5</attack>
+      </action>
+    <action>
+        <name>+1 Dagger (Thrown)</name>
+          <text>Ranged Weapon Attack: +9 to hit, range 20/60 ft., one target. 7 (1d4 + 5) piercing damage.</text>
+          <attack>+1 Dagger|+9|1d4+5</attack>
       </action>
     <reaction>
         <name>Parry</name>
@@ -2886,7 +2880,7 @@ Source: Waterdeep: Dragon Heist p. 63</description>
       </action>
     <action>
         <name>Extract Brain</name>
-      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by Nihiloor. The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, Nihiloor kills the target by extracting and devouring its brain.</text>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by Nihiloor. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, Nihiloor kills the target by extracting and devouring its brain.</text>
       <attack>Extract Brain|+7|10d10</attack>
       </action>
     <action>
@@ -2956,8 +2950,7 @@ Source: Waterdeep: Dragon Heist p. 212</description>
       </action>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d4 + 4) piercing damage. Or Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
-      <attack>Dagger|+6|1d4+4</attack>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
       <attack>Dagger|+6|1d4+4</attack>
       </action>
     <reaction>
@@ -3279,8 +3272,7 @@ Source: Waterdeep: Dragon Heist p. 214</description>
       </trait>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) piercing damage. Or Ranged Weapon Attack: +2 to hit, range 20/60 ft., one target. 2 (1d4) piercing damage.</text>
-      <attack>Dagger|+2|1d4</attack>
+      <text>Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. 2 (1d4) piercing damage.</text>
       <attack>Dagger|+2|1d4</attack>
       </action>
     <trait>
@@ -3395,8 +3387,7 @@ Source: Waterdeep: Dragon Heist p. 214</description>
       </action>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d4 + 4) piercing damage. Or Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
-      <attack>Dagger|+6|1d4+4</attack>
+      <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
       <attack>Dagger|+6|1d4+4</attack>
       </action>
     <action>
@@ -3441,8 +3432,7 @@ Source: Waterdeep: Dragon Heist p. 215</description>
       </action>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+5|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+5|1d4+2</attack>
       </action>
     <trait>
@@ -3692,8 +3682,7 @@ Source: Waterdeep: Dragon Heist p. 42</description>
       </trait>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+5|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+5|1d4+2</attack>
       </action>
     <trait>
@@ -4182,8 +4171,7 @@ Source: Waterdeep: Dragon Heist p. 89</description>
       </action>
     <action>
         <name>Dagger</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60 ft., one creature. 4 (1d4 + 2) piercing damage.</text>
-      <attack>Dagger|+4|1d4+2</attack>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+4|1d4+2</attack>
       </action>
     <trait>
