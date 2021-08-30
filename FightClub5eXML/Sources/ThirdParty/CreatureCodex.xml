@@ -20498,7 +20498,7 @@
     <environment>arctic</environment>
     </monster>
   <monster>
-      <name>Vampire Patrician</name>
+      <name>Vampire, Patrician</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -20570,22 +20570,18 @@
         <name>Bone-Chilling Gaze</name>
       <text>The vampire patrician targets one humanoid it can see within 30 feet. If the target can see the patrician, the target must succeed on a DC 17 Charisma saving throw or become paralyzed with fear until the end of its next turn. Release the Hounds! (1/Day). The vampire patrician calls 4d6 hunting hounds (use mastiff statistics) to its side. While outdoors, the vampire patrician can call 4d6 hunting raptors (use blood hawk statistics) instead. These creatures arrive in 1d4 rounds, helping the patrician and obeying its spoken commands. The beasts remain for 1 hour, until the patrician dies, or until the patrician dismisses them as a bonus action.</text>
       </action>
-    <action>
-        <name>Variant: VARIANT: SHROUD-EATERS</name>
-      </action>
-    <action>
-        <name>Sires and Slave</name>
-      <text>A powerful strain of vampirism, shroud-eaters have a greater degree of free will from their sires, though they are bound by what is called the "Tree of Chains," a pyramid of control with a free-willed vampire at the summit and all those beneath it compelled to obedience. They cannot plot against or defy their sires, but otherwise they can create their own shroud-eaters beholden to them. Wise vampire hunters know to employ the speak with dead spell on a slain shroud-eater to discover its sire, following the Tree of Chains as far as they are able.</text>
-      </action>
-    <action>
-        <name>Misleading Lore</name>
-      <text>Shroud-eaters can tolerate quite a bit of sunlight, and, as they grow older, they may withstand it for a longer time, though they still suffer from it and rarely venture out in the day unless forced to do so. Over time, shroud-eaters also learn to alter the memories of the living and to erase traces of their deeds from the minds of witnesses. A subtle shroud-eater may go undetected for ages.</text>
-      </action>
-    <action>
-        <name>Signs of Their Presence</name>
-      <text>Unlike other vampires, shroud-eaters cannot be destroyed with a simple wooden stake. The stake must use wood of a white oak or white ash tree. Discovery of burnt groves of these trees serves as a sign that a shroud-eater may live in the area.</text>
-      </action>
-    <description>Source: CCodex (3pp) p. 366</description>
+    <description>Variant: Shroud-Eaters
+
+Sires and Slave
+A powerful strain of vampirism, shroud-eaters have a greater degree of free will from their sires, though they are bound by what is called the "Tree of Chains," a pyramid of control with a free-willed vampire at the summit and all those beneath it compelled to obedience. They cannot plot against or defy their sires, but otherwise they can create their own shroud-eaters beholden to them. Wise vampire hunters know to employ the speak with dead spell on a slain shroud-eater to discover its sire, following the Tree of Chains as far as they are able.
+
+Misleading Lore
+Shroud-eaters can tolerate quite a bit of sunlight, and, as they grow older, they may withstand it for a longer time, though they still suffer from it and rarely venture out in the day unless forced to do so. Over time, shroud-eaters also learn to alter the memories of the living and to erase traces of their deeds from the minds of witnesses. A subtle shroud-eater may go undetected for ages.
+
+Signs of Their Presence
+Unlike other vampires, shroud-eaters cannot be destroyed with a simple wooden stake. The stake must use wood of a white oak or white ash tree. Discovery of burnt groves of these trees serves as a sign that a shroud-eater may live in the area.
+
+Source: CCodex (3pp) p. 366</description>
     <environment></environment>
     </monster>
   <monster>

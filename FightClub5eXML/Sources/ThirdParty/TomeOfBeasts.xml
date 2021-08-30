@@ -19467,11 +19467,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		</action>
 		<action>
 			<name>Slam</name>
-			<text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target.</text>
-		</action>
-		<action>
-			<name>Hit: 12 (1d10 + 7) bludgeoning damage</name>
-			<text>The target is also knocked inside the tophet's burning belly if the attack scores a critical hit.</text>
+			<text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (1d10 + 7) bludgeoning damage. The target is also knocked inside the tophet's burning belly if the attack scores a critical hit.</text>
 		</action>
 		<action>
 			<name>Gout of Flame</name>
