@@ -627,7 +627,7 @@
 		</action>
 		<action>
 			<name>Fiery Greatsword</name>
-			<text>Melee Weapon Attack. +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 16 (3d10) fire damage.</text>
+			<text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 16 (3d10) fire damage.</text>
 		</action>
 		<action>
 			<name>Fallen Glory (Recharge 5-6)</name>
@@ -1850,7 +1850,7 @@
 		</action>
 		<action>
 			<name>Ice Spear (Humanoid Form)</name>
-			<text>Melee Weapon Attack. +13 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 7) piercing damage plus 17 (5d6) cold damage.</text>
+			<text>Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 7) piercing damage plus 17 (5d6) cold damage.</text>
 		</action>
 		<action>
 			<name>North Wind Longbow</name>
@@ -2018,7 +2018,7 @@
 		</trait>
 		<action>
 			<name>Dagger</name>
-			<text>Melee Weapon Damage: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 13 Constitution saving throw against poison or take 1d2 Strength damage. The target must repeat the saving throw at the end of each of its turns, and it loses another 1d2 Strength for each failed saving throw. The effect ends when one of the saving throws succeeds or automatically after 4 rounds. All lost Strength returns after a long rest.</text>
+			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 13 Constitution saving throw against poison or take 1d2 Strength damage. The target must repeat the saving throw at the end of each of its turns, and it loses another 1d2 Strength for each failed saving throw. The effect ends when one of the saving throws succeeds or automatically after 4 rounds. All lost Strength returns after a long rest.</text>
 		</action>
 		<description>Source: Tome of Beasts</description>
 	</monster>
@@ -3337,7 +3337,7 @@
 		</trait>
 		<action>
 			<name>Claws</name>
-			<text>Melee Weapon Attack. +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.</text>
+			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.</text>
 		</action>
 		<description>Source: Tome of Beasts</description>
 	</monster>
@@ -3392,7 +3392,7 @@
 		</trait>
 		<action>
 			<name>Claws</name>
-			<text>Melee Weapon Attack. +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.</text>
+			<text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.</text>
 		</action>
 		<description>Source: Tome of Beasts</description>
 	</monster>
@@ -3451,7 +3451,7 @@
 		</action>
 		<action>
 			<name>Claw</name>
-			<text>Melee Weapon Attack. +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.</text>
+			<text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.</text>
 		</action>
 		<action>
 			<name>Unholy Trident</name>
@@ -10495,7 +10495,7 @@
 		</action>
 		<action>
 			<name>Hooked Spider Net (Recharge 5-6)</name>
-			<text>Ranged Weapon Attack. +4 to hit, range 20/50 ft., one target. Hit: 3 (1d6) piercing damage plus 19 (3d12) poison damage, and the target is restrained. A successful DC 14 Constitution saving throw halves the poison damage.</text>
+			<text>Ranged Weapon Attack: +4 to hit, range 20/50 ft., one target. Hit: 3 (1d6) piercing damage plus 19 (3d12) poison damage, and the target is restrained. A successful DC 14 Constitution saving throw halves the poison damage.</text>
 		</action>
 		<description>Source: Tome of Beasts</description>
 	</monster>
@@ -12211,7 +12211,7 @@
 		</action>
 		<action>
 			<name>Stomp</name>
-			<text>Melee Weapon Attack. +11 to hit, reach 10 ft. Hit: 20 (2d12 + 7) bludgeoning damage.</text>
+			<text>Melee Weapon Attack: +11 to hit, reach 10 ft. Hit: 20 (2d12 + 7) bludgeoning damage.</text>
 		</action>
 		<legendary>
 			<name>A gug can take 3 legendary actions, choosing from the options below</name>
@@ -12654,7 +12654,7 @@
 		</legendary>
 		<legendary>
 			<name>Call of Blood (2 Actions)</name>
-			<text>Melee Weapon Attack. +10 to hit, reach 5 ft., all creatures in reach. Hit: 39 (6d12) necrotic damage and each target must make a successful DC 17 Constitution saving throw or gain 1 level of exhaustion.</text>
+			<text>Melee Weapon Attack: +10 to hit, reach 5 ft., all creatures in reach. Hit: 39 (6d12) necrotic damage and each target must make a successful DC 17 Constitution saving throw or gain 1 level of exhaustion.</text>
 		</legendary>
 		<legendary>
 			<name>Majesty of Ragnarok (3 Actions)</name>
@@ -12703,7 +12703,7 @@
 		</action>
 		<action>
 			<name>Embrace Darkness</name>
-			<text>Melee Weapon Attack. +8 to hit, reach 5 ft., all creatures in reach. Hit: 6 (1d12) necrotic damage and targets are paralyzed until the start of the herald's next turn. Making a DC 17 Constitution saving throw negates the paralysis.</text>
+			<text>Melee Weapon Attack: +8 to hit, reach 5 ft., all creatures in reach. Hit: 6 (1d12) necrotic damage and targets are paralyzed until the start of the herald's next turn. Making a DC 17 Constitution saving throw negates the paralysis.</text>
 		</action>
 		<action>
 			<name>Majesty of the Abyss (Recharge 4-6)</name>
@@ -16358,7 +16358,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		</action>
 		<action>
 			<name>Bursting Pod</name>
-			<text>Melee Ranged Attack: +8 to hit, range 30/120 ft., one target. Hit: 8 (1d6 + 5) bludgeoning damage, and the target and all creatures within 5 feet of it also take 5 (2d4) piercing damage, or half as much piercing damage with a successful DC 15 Dexterity saving throw.</text>
+			<text>Melee or Ranged Attack: +8 to hit, range 30/120 ft., one target. Hit: 8 (1d6 + 5) bludgeoning damage, and the target and all creatures within 5 feet of it also take 5 (2d4) piercing damage, or half as much piercing damage with a successful DC 15 Dexterity saving throw.</text>
 			<attack>Bursting Pod|8|1d6+5</attack>
 		</action>
 		<action>
@@ -16401,7 +16401,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		</action>
 		<action>
 			<name>Longbow</name>
-			<text>Ranged Weapon Attack. +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 +2) piercing damage.</text>
+			<text>Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 +2) piercing damage.</text>
 		</action>
 		<action>
 			<name>Peck</name>
@@ -16453,7 +16453,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		</action>
 		<action>
 			<name>Longbow</name>
-			<text>Ranged Weapon Attack. +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.</text>
+			<text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.</text>
 		</action>
 		<action>
 			<name>Peck</name>
@@ -16656,7 +16656,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		</action>
 		<action>
 			<name>Tendril</name>
-			<text>Melee Weapon Attack. +8 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 5) slashing damage. If both tendril attacks hit the same target in a single turn, that target is grappled (escape DC 15). The rime worm can grapple one creature at a time, and it can't use its tendril or devour attacks against a different target while it has a creature grappled.</text>
+			<text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 5) slashing damage. If both tendril attacks hit the same target in a single turn, that target is grappled (escape DC 15). The rime worm can grapple one creature at a time, and it can't use its tendril or devour attacks against a different target while it has a creature grappled.</text>
 			<attack>Tendril|8|1d6+5</attack>
 		</action>
 
@@ -16705,7 +16705,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		</action>
 		<action>
 			<name>Tendril</name>
-			<text>Melee Weapon Attack. +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.</text>
+			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.</text>
 			<attack>Tendril|5|1d6+3</attack>
 		</action>
 		<action>
@@ -18767,7 +18767,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		</action>
 		<action>
 			<name>Crushing Claws</name>
-			<text>Melee Weapon Attack. +12 to hit, reach 10 ft., one target. Hit: 20 (2d12 + 7) bludgeoning damage plus 13 (3d8) necrotic damage.</text>
+			<text>Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 20 (2d12 + 7) bludgeoning damage plus 13 (3d8) necrotic damage.</text>
 		</action>
 		<action>
 			<name>Disintegrating Gaze (Recharge 5-6)</name>
@@ -19467,7 +19467,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		</action>
 		<action>
 			<name>Slam</name>
-			<text>Melee Weapon Attack. +10 to hit, reach 5 ft., one target.</text>
+			<text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target.</text>
 		</action>
 		<action>
 			<name>Hit: 12 (1d10 + 7) bludgeoning damage</name>

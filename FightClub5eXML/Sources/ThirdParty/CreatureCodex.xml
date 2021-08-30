@@ -1011,7 +1011,7 @@
       </action>
     <action>
         <name>Unarmed Strike (Humanoid or True Form Only)</name>
-      <text>Melee Weapon Attack. +10 to hit, reach 10 ft., one target. 18 (3d8 + 5) bludgeoning damage.</text>
+      <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 18 (3d8 + 5) bludgeoning damage.</text>
       <attack>Unarmed Strike (Humanoid or True Form Only)|10|3d8+5</attack>
       </action>
     <action>
@@ -1538,7 +1538,7 @@
       </action>
     <action>
         <name>Shortsword (Human or True Form Only)</name>
-      <text>Melee Weapon Attack. +10 to hit, reach 5 ft., one creature. 9 (1d6 + 6) piercing damage.</text>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. 9 (1d6 + 6) piercing damage.</text>
       <attack>Shortsword (Human or True Form Only)|10|1d6+6</attack>
       </action>
     <action>
@@ -2387,7 +2387,7 @@
       </action>
     <action>
         <name>Bite</name>
-      <text>Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit.11 (1d8 + 7) piercing damage plus 18 (4d8) radiant damage.</text>
+      <text>Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 7) piercing damage plus 18 (4d8) radiant damage.</text>
       <attack>Bite|0|4d8+0</attack>
       <attack>Bite|0|1d8+7</attack>
       </action>
@@ -3757,7 +3757,7 @@
       </trait>
     <action>
         <name>Life Drain</name>
-      <text>Melee Spell Attack. +4 to hit, reach 5 ft., one creature. 14 (4d6) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.</text>
+      <text>Melee Spell Attack: +4 to hit, reach 5 ft., one creature. 14 (4d6) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.</text>
       <attack>Life Drain|4|4d6</attack>
       </action>
     <action>
@@ -4077,7 +4077,7 @@
       </action>
     <action>
         <name>Necrotic Flame</name>
-      <text>Ranged Magic Attack. +10 to hit, 120 ft., one target. 13 (3d8) necrotic damage.</text>
+      <text>Ranged Magic Attack: +10 to hit, 120 ft., one target. 13 (3d8) necrotic damage.</text>
       <attack>Necrotic Flame|10|3d8</attack>
       </action>
     <reaction>
@@ -4789,7 +4789,7 @@
       </action>
     <action>
         <name>Claws</name>
-      <text>Melee Weapon Attack. +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
+      <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.</text>
       <attack>Claws|7|2d6+4</attack>
       </action>
     <description>Source: CCodex (3pp)</description>
@@ -9084,7 +9084,7 @@
       </action>
     <action>
         <name>Poison Dart</name>
-      <text>Ranged Weapon Attack. +5 to hit, range 20/60 ft., one target. 5 (1d4 + 3) piercing damage. If the target is a creature, it must make a DC 13 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. 5 (1d4 + 3) piercing damage. If the target is a creature, it must make a DC 13 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <attack>Poison Dart|5|1d4+3</attack>
       </action>
     <action>
@@ -12142,7 +12142,7 @@
       </action>
     <action>
         <name>Spectral Barrier</name>
-      <text>Ranged Magical Attack. +9 to hit, range 60 ft., one target. 18 (4d8) radiant damage. The target must succeed on a DC 18 Wisdom saving throw or be restrained by magical bands of force for 1 minute. A creature, including the target, can take its action to burst the bands of force by succeeding on a DC 17 Strength check.</text>
+      <text>Ranged Magical Attack: +9 to hit, range 60 ft., one target. 18 (4d8) radiant damage. The target must succeed on a DC 18 Wisdom saving throw or be restrained by magical bands of force for 1 minute. A creature, including the target, can take its action to burst the bands of force by succeeding on a DC 17 Strength check.</text>
       <attack>Spectral Barrier|9|4d8</attack>
       </action>
     <legendary>
@@ -13145,7 +13145,7 @@
       </action>
     <action>
         <name>Dagger (Humanoid Form Only)</name>
-      <text>Melee or Ranged Weapon Attack. +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger (Humanoid Form Only)|4|1d4+2</attack>
       </action>
     <trait>
@@ -14779,7 +14779,7 @@
       </trait>
     <action>
         <name>Master's Knife</name>
-      <text>Melee Weapon Attack. +10 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage plus 14 (4d6) fire damage.</text>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage plus 14 (4d6) fire damage.</text>
       <attack>Master's Knife|10|2d6+4</attack>
       </action>
     <action>
@@ -14862,7 +14862,7 @@
       </trait>
     <action>
         <name>Master's Knife</name>
-      <text>Melee Weapon Attack. +10 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage plus 14 (4d6) fire damage.</text>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage plus 14 (4d6) fire damage.</text>
       <attack>Master's Knife|10|2d6+4</attack>
       </action>
     <action>
@@ -18798,7 +18798,7 @@
       </action>
     <action>
         <name>Longsword (Warrior Only)</name>
-      <text>Melee Weapon Attack. +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
       <attack>Longsword (Warrior Only)|4|1d8+2</attack>
       </action>
     <action>
@@ -20201,7 +20201,7 @@
       </action>
     <action>
         <name>Spear of the Northern Sky (Recharge 5-6)</name>
-      <text>Ranged Weapon Attack. +7 to hit, range 30/120 ft., one target. 7 (1d6 + 4) piercing damage plus 10 (3d6) radiant damage, and the target is outlined in a shimmering light until the end of the tveirherjar's next turn. This light works like the faerie fire spell, except only the tveirherjar has advantage on attacks against the creature and the light is not absorbed by the tveirherjar's Niflheim longsword.</text>
+      <text>Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. 7 (1d6 + 4) piercing damage plus 10 (3d6) radiant damage, and the target is outlined in a shimmering light until the end of the tveirherjar's next turn. This light works like the faerie fire spell, except only the tveirherjar has advantage on attacks against the creature and the light is not absorbed by the tveirherjar's Niflheim longsword.</text>
       <attack>Spear of the Northern Sky (Recharge 5-6)|7|1d6+4</attack>
       </action>
     <action>
@@ -21089,17 +21089,17 @@
       </action>
     <action>
         <name>Bite (Hybrid or Horse Form Only)</name>
-      <text>Melee Weapon Attack. +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) piercing damage.</text>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) piercing damage.</text>
       <attack>Bite (Hybrid or Horse Form Only)|5|2d6+3</attack>
       </action>
     <action>
         <name>Longsword (Humanoid or Hybrid Form Only)</name>
-      <text>Melee Weapon Attack. +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</text>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</text>
       <attack>Longsword (Humanoid or Hybrid Form Only)|5|1d8+3</attack>
       </action>
     <action>
         <name>Longbow (Humanoid or Hybrid Form Only)</name>
-      <text>Ranged Weapon Attack. +4 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage.</text>
+      <text>Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage.</text>
       <attack>Longbow (Humanoid or Hybrid Form Only)|4|1d8+2</attack>
       </action>
     <action>
@@ -21364,7 +21364,7 @@
       </action>
     <action>
         <name>Grasp of the Void</name>
-      <text>Melee Spell Attack. +12 to hit, reach 5 ft., one target. 21 (6d6) force damage, and the target must succeed on a DC 18 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>Melee Spell Attack: +12 to hit, reach 5 ft., one target. 21 (6d6) force damage, and the target must succeed on a DC 18 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <attack>Grasp of the Void|12|6d6</attack>
       </action>
     <trait>
@@ -22834,7 +22834,7 @@
       </action>
     <action>
         <name>Ritual Knife</name>
-      <text>Melee Weapon Attack. +5 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage plus 7 (2d6) poison damage.</text>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage plus 7 (2d6) poison damage.</text>
       <attack>Ritual Knife|5|1d4+2</attack>
       </action>
     <action>
@@ -22895,7 +22895,7 @@
       </action>
     <action>
         <name>Shortbow</name>
-      <text>Ranged Weapon Attack. +4 to hit, range 80/320 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. 5 (1d6 + 2) piercing damage.</text>
       <attack>Shortbow|4|1d6+2</attack>
       </action>
     <trait>
