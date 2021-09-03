@@ -7855,17 +7855,18 @@
     <trait>
         <name>Spellcasting</name>
       <text>The enchanter is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The enchanter has the following Wizard spells prepared:</text>
-      <text>Cantrips (at will): dancing lights, friends, @spell mage hand}, message, prestidigitation</text>
+      <text>Cantrips (at will): dancing lights, friends, mage hand, message, prestidigitation</text>
       <text>• 1st level (4 slots): charm person*, hideous laughter*, magic missile</text>
-      <text>• 2nd level (3 slots): {@spell hold person*, invisibility, suggestion*</text>
+      <text>• 2nd level (3 slots): hold person*, invisibility, suggestion*</text>
       <text>• 3rd level (3 slots): hypnotic pattern, lightning bolt</text>
       <text>• 4th level (3 slots): confusion*, conjure minor elementals</text>
       <text>• 5th level (2 slots): dominate person*, hold monster, *, modify memory*</text>
       <text>• 6th level (1 slots): irresistible dance*, chain lightning</text>
-      <text>• 7th level (1 slots): prismatic spray *</text>
+      <text>• 7th level (1 slots): prismatic spray</text>
+      <text>*Enchantment spell of 1st level or higher</text>
       </trait>
     <slots>4, 3, 3, 3, 2, 1, 1</slots>
-    <spells>{@spell dancing lights, {@spell friends, @spell mage hand, {@spell message, {@spell prestidigitation, {@spell charm person, {@spell hideous laughter, {@spell magic missile, {@spell hold person, {@spell invisibility, {@spell suggestion, {@spell hypnotic pattern, {@spell lightning bolt, {@spell confusion, {@spell conjure minor elementals, {@spell dominate person, {@spell hold monster, , {@spell modify memory, {@spell irresistible dance, {@spell chain lightning, {@spell prismatic spray</spells>
+    <spells>dancing lights, friends, mage hand, message, prestidigitation, charm person, hideous laughter, magic missile, hold person, invisibility, suggestion, hypnotic pattern, lightning bolt, confusion, conjure minor elementals, dominate person, hold monster, modify memory, irresistible dance, chain lightning, prismatic spray</spells>
     <description>Source: CCodex (3pp)</description>
     <environment></environment>
     </monster>
@@ -18247,7 +18248,7 @@
       <text>3/day each: charm person, fear</text>
       <text>1/day each: confusion</text>
       </trait>
-    <spells>{@spell charm person, {@spell fear, {@spell confusion</spells>
+    <spells>charm person, fear, confusion</spells>
     <description>Source: CCodex (3pp) p. 325</description>
     <environment></environment>
     </monster>
@@ -20658,7 +20659,7 @@ Source: CCodex (3pp) p. 366</description>
       <text>• 5th level (1 slots): contagion, flame strike</text>
       </trait>
     <slots>4, 3, 3, 3, 1</slots>
-    <spells>{@spell light, {@spell guidance, {@spell poison spray, {@spell thaumaturgy, {@spell bane, {@spell command, {@spell inflict wounds, {@spell ray of sickness, {@spell blindness/deafness, {@spell silence, {@spell spiritual weapon, {@spell bestow curse, {@spell dispel magic, {@spell spirit guardians, {@spell banishment, {@spell freedom of movement, {@spell contagion, {@spell flame strike</spells>
+    <spells>light, guidance, poison spray, thaumaturgy, bane, command, inflict wounds, ray of sickness, blindness/deafness, silence, spiritual weapon, bestow curse, dispel magic, spirit guardians, banishment, freedom of movement, contagion, flame strike</spells>
     <description>Source: CCodex (3pp) p. 367</description>
     <environment></environment>
     </monster>
@@ -20736,7 +20737,7 @@ Source: CCodex (3pp) p. 366</description>
       <text>• 5th level (1 slots): cruor of visions*, exsanguinate*</text>
       </trait>
     <slots>4, 3, 3, 3, 1</slots>
-    <spells>blood tide, {@spell guidance, {@spell poison spray, {@spell thaumaturgy, {@spell command, find kin, {@spell inflict wounds, {@spell ray of sickness, animate ghoul, {@spell silence, {@spell spiritual weapon, {@spell bestow curse, {@spell dispel magic, {@spell spirit guardians, {@spell banishment, {@spell freedom of movement, cruor of visions, exsanguinate</spells>
+    <spells>blood tide, guidance, poison spray, thaumaturgy, command, find kin, inflict wounds, ray of sickness, animate ghoul, silence, spiritual weapon, bestow curse, dispel magic, spirit guardians, banishment, freedom of movement, cruor of visions, exsanguinate</spells>
     <description>Source: CCodex (3pp) p. 367</description>
     <environment></environment>
     </monster>
@@ -21367,10 +21368,10 @@ Source: CCodex (3pp) p. 366</description>
         <name>Innate Spellcasting</name>
       <text>The whisperer in darkness's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no material components:</text>
       <text>At will: alter self, detect magic, detect thoughts, disguise self, fear, identify, invisibility (self only), misty step, sleep, suggestion</text>
-      <text>3/day each: {@spell confusion, dimension door}, disintegrate, dream, modify memory, plane shift, teleport</text>
+      <text>3/day each: confusion, dimension door}, disintegrate, dream, modify memory, plane shift, teleport</text>
       <text>1/day each: feeblemind, meteor swarm, mind blank, weird</text>
       </trait>
-    <spells>{@spell alter self, {@spell detect magic, {@spell detect thoughts, {@spell disguise self, {@spell fear, {@spell identify, {@spell invisibility, misty step, sleep, suggestion, {@spell confusion, dimension door, {@spell disintegrate, {@spell dream, {@spell modify memory, {@spell plane shift, {@spell teleport, {@spell feeblemind, {@spell meteor swarm, {@spell mind blank, {@spell weird</spells>
+    <spells>alter self, detect magic, detect thoughts, disguise self, fear, identify, invisibility, misty step, sleep, suggestion, confusion, dimension door, disintegrate, dream, modify memory, plane shift, teleport, feeblemind, meteor swarm, mind blank, weird</spells>
     <description>Source: CCodex (3pp) p. 378</description>
     <environment></environment>
     </monster>
@@ -22331,7 +22332,7 @@ Source: CCodex (3pp) p. 366</description>
       <text>• 4th level (1 slots): ice storm</text>
       </trait>
     <slots>4, 3, 3, 1</slots>
-    <spells>{@spell fire bolt, {@spell mage hand, {@spell poison spray, {@spell shocking grasp, {@spell burning hands, {@spell mage armor, {@spell magic missile, {@spell thunderwave, {@spell flaming sphere, {@spell misty step, {@spell shatter, {@spell counterspell, {@spell fireball, {@spell lightning bolt, {@spell ice storm</spells>
+    <spells>fire bolt, mage hand, poison spray, shocking grasp, burning hands, mage armor, magic missile, thunderwave, flaming sphere, misty step, shatter, counterspell, fireball, lightning bolt, ice storm</spells>
     <description>Source: CCodex (3pp) p. 397</description>
     <environment></environment>
     </monster>
@@ -22455,11 +22456,11 @@ Source: CCodex (3pp) p. 366</description>
       <text>• 1st level (4 slots): charm person, false life, stanch*, weapon of blood*</text>
       <text>• 2nd level (3 slots): bloodshot*, hold person</text>
       <text>• 3rd level (3 slots): blood armor*, dispel magic, fly, vampiric touch</text>
-      <text>• 4th level (3 slots): black tentacles, {@spell blight</text>
+      <text>• 4th level (3 slots): black tentacles, blight</text>
       <text>• 5th level (2 slots): sanguine horror*, scrying *</text>
       </trait>
     <slots>4, 3, 3, 3, 2</slots>
-    <spells>{@spell acid splash, blood tide, {@spell mage hand, {@spell mending, {@spell prestidigitation, {@spell charm person, {@spell false life, stanch, weapon of blood, bloodshot, {@spell hold person, blood armor, {@spell dispel magic, {@spell fly, {@spell vampiric touch, {@spell black tentacles, {@spell blight, sanguine horror, {@spell scrying</spells>
+    <spells>acid splash, blood tide, mage hand, mending, prestidigitation, charm person, false life, stanch, weapon of blood, bloodshot, hold person, blood armor, dispel magic, fly, vampiric touch, black tentacles, blight, sanguine horror, scrying</spells>
     <description>Source: CCodex (3pp) p. 397</description>
     <environment></environment>
     </monster>
@@ -22792,7 +22793,7 @@ Source: CCodex (3pp) p. 366</description>
       <text>• 5th level (1 slots): cloudkill, mechanical union*</text>
       </trait>
     <slots>4, 3, 3, 2, 1</slots>
-    <spells>{@spell acid splash, fist of iron, mage hand, mending, analyze device, animate construct, {@spell grease, {@spell mage armor, armored heart, {@spell levitate, {@spell shatter, {@spell counterspell, {@spell dispel magic, overclock, {@spell fabricate, grinding gears, {@spell cloudkill, mechanical union</spells>
+    <spells>acid splash, fist of iron, mage hand, mending, analyze device, animate construct, grease, mage armor, armored heart, levitate, shatter, counterspell, dispel magic, overclock, fabricate, grinding gears, cloudkill, mechanical union</spells>
     <description>Source: CCodex (3pp) p. 402</description>
     <environment></environment>
     </monster>
@@ -22996,7 +22997,8 @@ Source: CCodex (3pp) p. 366</description>
       <text>• 2nd level (3 slots): blindness/deafness*, ray of enfeeblement*</text>
       <text>• 3rd level (3 slots): animate dead, dispel magic, fear, vampiric touch*</text>
       <text>• 4th level (3 slots): blight*, ice storm, stoneskin</text>
-      <text>• 5th level (2 slots): cloudkill, cone of cold *</text>
+      <text>• 5th level (2 slots): cloudkill, cone of cold</text>
+      <text>*Necromancy spell of 1st level or higher that requires a saving throw or attack roll</text>
       </trait>
     <slots>4, 3, 3, 3, 2</slots>
     <spells>chill touch, mage hand, poison spray, ray of frost, false life, mage armor, ray of sickness, blindness/deafness, ray of enfeeblement, animate dead, dispel magic, fear, vampiric touch, blight, ice storm, stoneskin, cloudkill, cone of cold </spells>
@@ -23247,7 +23249,7 @@ Source: CCodex (3pp) p. 366</description>
       <text>• 5th level (1 slots): cone of cold</text>
       </trait>
     <slots>4, 3, 3, 3, 1</slots>
-    <spells>{@spell fire bolt, {@spell minor illusion, {@spell prestidigitation, {@spell shocking grasp, {@spell burning hands, {@spell mage armor, {@spell magic missile, {@spell hold person, {@spell misty step, {@spell suggestion, {@spell counterspell, {@spell dispel magic, {@spell fear, {@spell black tentacles, {@spell blight, {@spell confusion, {@spell cone of cold</spells>
+    <spells>fire bolt, minor illusion, prestidigitation, shocking grasp, burning hands, mage armor, magic missile, hold person, misty step, suggestion, counterspell, dispel magic, fear, black tentacles, blight, confusion, cone of cold</spells>
     <description>Source: CCodex (3pp)</description>
     <environment></environment>
     </monster>

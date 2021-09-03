@@ -861,7 +861,7 @@ Source: Eberron: Rising from the Last War p. 305</description>
       </trait>
     <action>
         <name>Force Strike</name>
-      <text>Ranged Weapon Attack: {@hitYourSpellAttack} to hit, range 30 ft., one target you can see. 1d4 + PB force damage.</text>
+      <text>Ranged Weapon Attack: +4 to hit, range 30 ft., one target you can see. 1d4 + 2 force damage.</text>
       </action>
     <reaction>
         <name>Channel Magic</name>
@@ -1797,11 +1797,11 @@ Source: Eberron: Rising from the Last War p. 319</description>
       </trait>
     <action>
         <name>Force-Empowered Rend</name>
-      <text>Melee Weapon Attack: {@hitYourSpellAttack} to hit, reach 5 ft., one target you can see. 1d8 + PB force damage.</text>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target you can see. 1d8 +2 force damage.</text>
       </action>
     <action>
         <name>Repair (3/Day)</name>
-      <text>The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.</text>
+      <text>The magical mechanisms inside the defender restore 2d8 +2 hit points to itself or to one construct or object within 5 feet of it.</text>
       </action>
     <reaction>
         <name>Deflect Attack</name>
