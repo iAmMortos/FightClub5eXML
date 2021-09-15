@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <feat>
-      <name>Invocation: Aspect of the Moon (UA)</name>
+      <name>Invocation: Aspect of the Moon (UA-WaW)</name>
     <prerequisite>The Archfey patron</prerequisite>
     <text>You have gained the Maiden of the Moon's favor. You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading and keeping watch.
 Source: Unearthed Arcana: Warlock And Wizard p. 3</text>
@@ -51,7 +51,7 @@ When you hit a creature with this weapon, you can expend a spell slot to deal an
 Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
     </feat>
   <feat>
-      <name>Invocation: Frost Lance (UA)</name>
+      <name>Invocation: Frost Lance (UA-WaW)</name>
     <prerequisite>Eldritch Blast cantrip, The Archfey patron</prerequisite>
     <text>You draw on the gifts of the Prince of Frost to trap your enemies in ice. When you hit a creature with your eldritch blast cantrip one or more times on your turn, you can reduce that creature's speed by 10 feet until the end of your next turn.
 Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
@@ -63,7 +63,7 @@ Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
 Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
     </feat>
   <feat>
-      <name>Invocation: Grasp of Hadar (UA)</name>
+      <name>Invocation: Grasp of Hadar (UA-WaW)</name>
     <prerequisite>Eldritch Blast cantrip, The Great Old One patron</prerequisite>
     <text>Once during your turn when you hit a creature with your eldritch blast cantrip, you can move that creature in a straight line 10 feet closer to yourself.
 Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
@@ -75,13 +75,13 @@ Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
 Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
     </feat>
   <feat>
-      <name>Invocation: Improved Pact Weapon (UA)</name>
+      <name>Invocation: Improved Pact Weapon (UA-WaW)</name>
     <prerequisite>5th level, Pact of the Blade</prerequisite>
     <text>Any weapon you create using your Pact of the Blade feature is a +1 weapon. This invocation doesn't affect a magic weapon you transformed into your pact weapon.
 Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
     </feat>
   <feat>
-      <name>Invocation: Kiss of Mephistopheles (UA)</name>
+      <name>Invocation: Kiss of Mephistopheles (UA-WaW)</name>
     <prerequisite>Eldritch Blast cantrip, 5th level, The Fiend patron</prerequisite>
     <text>You can channel the fires of Mephistopheles through your eldritch blast. When you hit a creature with that cantrip, you can cast fireball as a bonus action using a warlock spell slot. However, the spell must be centered on a creature you hit with eldritch blast.
 Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
@@ -111,7 +111,7 @@ Source: Unearthed Arcana: Warlock And Wizard p. 4</text>
 Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
     </feat>
   <feat>
-      <name>Invocation: Relentless Hex (UA)</name>
+      <name>Invocation: Relentless Hex (UA-WaW)</name>
     <prerequisite>5th level, The Hexblade patron</prerequisite>
     <text>Your Hexblade's Curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport to a space you can see within 5 feet of the target cursed by your Hexblade's Curse. To do so, you must be able to see the target and must be within 30 feet of it.
 Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
@@ -142,7 +142,7 @@ Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
 Source: Unearthed Arcana: Warlock And Wizard p. 5</text>
     </feat>
   <feat>
-      <name>Invocation: Tomb of Levistus (UA)</name>
+      <name>Invocation: Tomb of Levistus (UA-WaW)</name>
     <prerequisite>The Fiend patron</prerequisite>
     <text>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. You also gain vulnerability to fire damage, your speed drops to 0, and you are incapacitated. All of these effects end when the ice melts.
 Once you use this invocation, you can't use it again until you finish a short or long rest.

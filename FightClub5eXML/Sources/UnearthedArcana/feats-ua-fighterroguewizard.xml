@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
     <feat>
-      <name>Telekinetic (UA)</name>
+      <name>Telekinetic (UA-FRW)</name>
     <prerequisite></prerequisite>
     <text>You learn to move things with your mind. You gain the following benefits:
 • You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible.
@@ -10,7 +10,7 @@ Source: Unearthed Arcana: Fighter Rogue Wizard p. 8</text>
     <modifier category="ability score">Intelligence +1</modifier>
     </feat>
   <feat>
-      <name>Telepathic (UA)</name>
+      <name>Telepathic (UA-FRW)</name>
     <prerequisite></prerequisite>
     <text>You awaken the ability to mentally connect with others. You gain the following benefits:
 • You gain proficiency in one skill of your choice from the following list: Deception, Insight, Intimidation, or Persuasion.
