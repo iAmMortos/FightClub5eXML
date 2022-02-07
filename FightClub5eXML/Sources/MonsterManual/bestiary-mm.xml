@@ -125,25 +125,25 @@ Source: Monster Manual p. 12, Princes of the Apocalypse, Storm King's Thunder, T
         <name>Psychic Drain (Costs 2 Actions)</name>
       <text>One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>When fighting inside its lair, an aboleth can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the aboleth takes a lair action to cause one of the following effects:</text>
       <text>• The aboleth casts phantasmal force (no components required) on any number of creatures it can see within 60 feet of it. While maintaining concentration on this effect, the aboleth can't take other lair actions. If a target succeeds on the saving throw or if the effect ends for it, the target is immune to the aboleth's phantasmal force lair action for the next 24 hours, although such a creature can choose to be affected.</text>
       <text>• Pools of water within 90 feet of the aboleth surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 14 Strength saving throw or be pulled up to 20 feet into the water and knocked prone. The aboleth can't use this lair action again until it has used a different one.</text>
       <text>• Water in the aboleth's lair magically becomes a conduit for the creature's rage. The aboleth can target any number of creatures it can see in such water within 90 feet of it. A target must succeed on a DC 14 Wisdom saving throw or take 7 (2d6) psychic damage. The aboleth can't use this lair action again until it has used a different one.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing an aboleth's lair is warped by the creature's presence, which creates one or more of the following effects:</text>
       <text>• Underground surfaces within 1 mile of the aboleth's lair are slimy and wet and are difficult terrain.</text>
       <text>• Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the aboleth that drink such water vomit it within minutes.</text>
       <text>• As an action, the aboleth can create an illusory image of itself within 1 mile of the lair. The copy can appear at any location the aboleth has seen before or in any location a creature charmed by the aboleth can currently see. Once created, the image lasts for as long as the aboleth maintains concentration, as if concentrating on a spell. Although the image is intangible, it looks, sounds, and can move like the aboleth. The aboleth can sense, speak, and use telepathy from the image's position as if present at that position. If the image takes any damage, it disappears.</text>
       <text>If the aboleth dies, the first two effects fade over the course of 3d10 days.</text>
-      </legendary>
+      </lair>
     <description>Before the coming of the gods, aboleths lurked in primordial oceans and underground lakes. They reached out with their minds and seized control of the burgeoning life-forms of the mortal realm, making those creatures their slaves. Their dominance made them like gods. Then the true gods appeared, smashing the aboleths' empire and freeing their slaves. Aboleths have never forgotten.
 Eternal Memories. Aboleths have flawless memories. They pass on their knowledge and experience from generation to generation. Thus, the injury of their defeat by the gods remains perfectly preserved in their minds.
 Aboleths' minds are treasure troves of ancient lore, recalling moments from prehistory with perfect clarity. They plot patiently and intricately across eons. Few creatures can conceive of the extent of an aboleth's plan.
@@ -335,25 +335,25 @@ Source: Monster Manual p. 342, Curse of Strahd, Hoard of the Dragon Queen, Princ
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Pools of water that the dragon can see within 120 feet of it surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 15 Strength saving throw or be pulled up to 20 feet into the water and knocked prone.</text>
       <text>• A cloud of swarming insects fills a 20-foot-radius sphere centered on a point the dragon chooses within 120 feet of it. The cloud spreads around corners and remains until the dragon dismisses it as an action, uses this lair action again, or dies. The cloud is lightly obscured. Any creature in the cloud when it appears must make on a DC 15 Constitution saving throw, taking 10 (3d6) piercing damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud takes 10 (3d6) piercing damage.</text>
       <text>• Magical darkness spreads from a point the dragon chooses within 60 feet of it, filling a 15-foot-radius sphere until the dragon dismisses it as an action, uses this lair action again, or dies. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If any of the effect's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary black dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• The land within 6 miles of the lair takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.</text>
       <text>• Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the dragon that drink such water regurgitate it within minutes.</text>
       <text>• Fog lightly obscures the land within 6 miles of the lair.</text>
       <text>If the dragon dies, vegetation remains as it has grown, but other effects fade over 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -443,25 +443,25 @@ Source: Monster Manual p. 88, Hoard of the Dragon Queen, Princes of the Apocalyp
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dracolich beats its tattered wings. Each creature within 10 feet of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. After beating its wings this way, the dracolich can fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be knocked prone and buried. The buried target is restrained and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success.</text>
       <text>• A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <text>• Lightning arcs, forming a 5-foot-wide line between two of the lair's solid surfaces that the dragon can see. They must be within 120 feet of the dragon and 120 feet of each other. Each creature in that line must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) lightning damage.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary blue dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Thunderstorms rage within 6 miles of the lair.</text>
       <text>• Dust devils scour the land within 6 miles of the lair. A dust devil has the statistics of an air elemental, but it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma of 1 (-5).</text>
       <text>• Hidden sinkholes form in and around the dragon's lair. A sinkhole can be spotted from a safe distance with a successful DC 20 Wisdom (Perception) check. Otherwise, the first creature to step on the thin crust covering the sinkhole must succeed on a DC 15 Dexterity saving throw or fall 1d6 x 10 feet into the sinkhole.</text>
       <text>If the dragon dies, the dust devils disappear immediately, and the thunderstorms abate within 1d10 days. Any sinkholes remain where they are.</text>
-      </legendary>
+      </lair>
     <description>Even as long-lived as they are, all dragons must eventually die. This thought doesn't sit well with many dragons, some of which allow themselves to be transformed by necromantic energy and ancient rituals into powerful undead dracoliches. Only the most narcissistic dragons choose this path, knowing that by doing so, they sever all ties to their kin and the dragon gods.
 Beyond Death. A dracolich retains its shape and size upon transforming, its skin and scales drawing tight to its bones or sloughing away to leave a skeletal form behind. Its eyes appear as glowing points of light floating in shadowy sockets, hinting at the malevolence of its undead mind.
 Though many dragons pursue vain goals of destruction and dominance, dracoliches are more nefarious than the most evil dragons, driven to rule over all. A dracolich is a fiendishly intelligent tyrant that crafts complex webs of foul schemes, attracting servants motivated by greed and a lust for power. Acting from the shadows and actively plotting to keep its existence a secret, a dracolich is a cunning and challenging foe.
@@ -548,25 +548,25 @@ Source: Monster Manual p. 84, Waterdeep: Dungeon of the Mad Mage</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be knocked prone and buried. The buried target is restrained and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success.</text>
       <text>• A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <text>• Lightning arcs, forming a 5-foot-wide line between two of the lair's solid surfaces that the dragon can see. They must be within 120 feet of the dragon and 120 feet of each other. Each creature in that line must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) lightning damage.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary blue dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Thunderstorms rage within 6 miles of the lair.</text>
       <text>• Dust devils scour the land within 6 miles of the lair. A dust devil has the statistics of an air elemental, but it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma of 1 (-5).</text>
       <text>• Hidden sinkholes form in and around the dragon's lair. A sinkhole can be spotted from a safe distance with a successful DC 20 Wisdom (Perception) check. Otherwise, the first creature to step on the thin crust covering the sinkhole must succeed on a DC 15 Dexterity saving throw or fall 1d6 x 10 feet into the sinkhole.</text>
       <text>If the dragon dies, the dust devils disappear immediately, and the thunderstorms abate within 1d10 days. Any sinkholes remain where they are.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -654,24 +654,24 @@ Source: Monster Manual p. 91, Hoard of the Dragon Queen, Rise of Tiamat, Storm K
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• A strong wind blows around the dragon. Each creature within 60 feet of the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked prone. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames; such as lanterns, have a 50 percent chance of being extinguished.</text>
       <text>• A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in it must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary brass dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Tracks appear in the sand within 6 miles of the dragon's lair. The tracks lead to safe shelters and hidden water sources, while also leading away from areas that the dragon prefers to remain undisturbed.</text>
       <text>• Images of Large or smaller monsters haunt the desert sands within 1 mile of the dragon's lair. These illusions move and appear real, although they can do no harm. A creature that examines an image from a distance can tell it's an illusion with a successful DC 20 Intelligence (Investigation) check. Any physical interaction with an image reveals it to be an illusion, because objects pass through it.</text>
       <text>• Whenever a creature with an Intelligence of 3 or higher comes within 30 feet of a water source within 1 mile of the dragon's lair, the dragon becomes aware of the creature's presence and location.</text>
       <text>If the dragon dies, the tracks fade in 1d10 days, but the other effects fade immediately.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -768,24 +768,24 @@ Source: Monster Manual p. 105, Ghosts of Saltmarsh</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• The dragon creates fog as though it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
       <text>• A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (1d10) thunder damage and be deafened until the end of its next turn.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary bronze dragon's lair is warped by the dragon's magic.</text>
       <text>• Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.</text>
       <text>• Underwater plants within 6 miles of the dragon's lair take on dazzlingly brilliant hues.</text>
       <text>• Within its lair, the dragon can set illusory sounds, such as soft music and strange echoes, so that they can be heard in various parts of the lair.</text>
       <text>If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -873,24 +873,24 @@ Source: Monster Manual p. 108, Princes of the Apocalypse, Storm King's Thunder, 
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the spike growth spell and lasts until the dragon uses this lair action again or until the dragon dies.</text>
       <text>• The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15 Dexterity saving throw or sink into the mud and become restrained. A creature can take an action to attempt a DC 15 Strength check, freeing itself or another creature within its reach and ending the restrained condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary copper dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Magic carvings of the dragon's smiling visage can be seen worked into stone terrain and objects within 6 miles of the dragon's lair.</text>
       <text>• Tiny beasts such as rodents and birds that are normally unable to speak gain the magical ability to speak and understand Draconic while within 1 mile of the dragon's lair. These creatures speak well of the dragon, but can't divulge its whereabouts.</text>
       <text>• Intelligent creatures within 1 mile of the dragon's lair are prone to fits of giggling. Even serious matters suddenly seem amusing.</text>
       <text>If the dragon dies, the magic carvings fade over the course of 1d10 days. The other effects end immediately.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -987,24 +987,24 @@ Source: Monster Manual p. 112, Ghosts of Saltmarsh</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.</text>
       <text>• One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon's lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.</text>
       <text>• Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's lair. The mist doesn't obscure anything. It assumes haunting forms when evil creatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.</text>
       <text>• Gems and pearls within 1 mile of the dragon's lair sparkle and gleam, shedding dim light in a 5-foot radius.</text>
       <text>If the dragon dies, these effects end immediately.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -1094,26 +1094,26 @@ Source: Monster Manual p. 114, Ghosts of Saltmarsh, Explorer's Guide to Wildemou
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Grasping roots and vines erupt in a 20-foot radius centered on a point on the ground that the dragon can see within 120 feet of it. That area becomes difficult terrain, and each creature there must succeed on a DC 15 Strength saving throw or be restrained by the roots and vines. A creature can be freed if it or another creature takes an action to make a DC 15 Strength check and succeeds. The roots and vines wilt away when the dragon uses this lair action again or when the dragon dies.</text>
       <text>• A wall of tangled brush bristling with thorns springs into existence on a solid surface within 120 feet of the dragon. The wall is up to 60 feet long, 10 feet high, and 5 feet thick, and it blocks line of sight. When the wall appears, each creature in its area must make a DC 15 Dexterity saving throw. A creature that fails the save takes 18 (4d8) piercing damage and is pushed 5 feet out of the wall's space, appearing on whichever side of the wall it wants. A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature travels through the wall, it must spend 4 feet of movement. Furthermore, a creature in the wall's space must make a DC 15 Dexterity saving throw once each round it's in contact with the wall, taking 18 (4d8) piercing damage on a failed save, or half as much damage on a successful one. Each 10-foot section of wall has AC 5, 15 hit points, vulnerability to fire damage, resistance to bludgeoning and piercing damage, and immunity to psychic damage. The wall sinks back into the ground when the dragon uses this lair action again or when the dragon dies.</text>
       <text>• Magical fog billows around one creature the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Wisdom saving throw or be charmed by the dragon until initiative count 20 on the next round.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary green dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Thickets form labyrinthine passages within 1 mile of the dragon's lair. The thickets act as 10-foot-high, 10-foot-thick walls that block line of sight. Creatures can move through the thickets, with every 1 foot a creature moves costing it 4 feet of movement. A creature in the thickets must make a DC 15 Dexterity saving throw once each round it's in contact with the 'thickets or take 3 (1d6) piercing damage from thorns.</text>
       <text>• Each 10-foot-cube of thickets has AC 5, 30 hit points, resistance to bludgeoning and piercing damage, vulnerability to fire damage, and immunity to psychic and thunder damage.</text>
       <text>• Within 1 mile of its lair, the dragon leaves no physical evidence of its passage unless it wishes to. Tracking it there is impossible except by magical means. In addition, it ignores movement impediments and damage from plants in this area that are neither magical nor creatures, including the thickets described above. The plants remove themselves from the dragon's path.</text>
       <text>• Rodents and birds within 1 mile of the dragon's lair serve as the dragon's eyes and ears. Deer and other large game are strangely absent, hinting at the presence of an unnaturally hungry predator.</text>
       <text>If the dragon dies, the rodents and birds lose their supernatural link to it. The thickets remain, but within 1d10 days, they become mundane plants and normal difficult terrain, losing their thorns.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -1199,25 +1199,25 @@ Source: Monster Manual p. 94, Rise of Tiamat, Ghosts of Saltmarsh</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.</text>
       <text>• A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.</text>
       <text>• Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads a round corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Small earthquakes are common within 6 miles of the dragon's lair.</text>
       <text>• Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.</text>
       <text>• Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.</text>
       <text>If the dragon dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -1310,24 +1310,24 @@ Source: Monster Manual p. 98, Rise of Tiamat, Tales from the Yawning Portal, Gho
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• The dragon creates fog as if it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
       <text>• A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.</text>
       <text>• Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.</text>
       <text>• Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.</text>
       <text>• Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.</text>
       <text>If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -1417,26 +1417,26 @@ Source: Monster Manual p. 117, Storm King's Thunder, Ghosts of Saltmarsh</descri
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Freezing fog fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The fog spreads around corners, and its area is heavily obscured. Each creature in the fog when it appears must make a DC 10 Constitution saving throw, taking 10 (3d6) cold damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the fog takes 10 (3d6) cold damage. A wind of at least 20 miles per hour disperses the fog. The fog otherwise lasts until the dragon uses this lair action again or until the dragon dies.</text>
       <text>• Jagged ice shards fall from the ceiling, striking up to three creatures underneath that the dragon can see within 120 feet of it. The dragon makes one ranged attack roll (+7 to hit) against each target. On a hit, the target takes 10 (3d6) piercing damage.</text>
       <text>• The dragon creates an opaque wall of ice on a solid surface it can see within 120 feet of it. The wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall appears, each creature within its area is pushed 5 feet out of the wall's space; appearing on whichever side of the wall it wants. Each 10-foot section of the wall has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. The wall disappears when the dragon uses this lair action again or when the dragon dies.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary white dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Chilly fog lightly obscures the land within 6 miles of the dragon's lair.</text>
       <text>• Freezing precipitation falls within 6 miles of the dragon's lair, sometimes forming blizzard conditions when the dragon is at rest.</text>
       <text>• Icy walls block off areas in the dragon's lair. Each wall is 6 inches thick, and a 10-foot section has AC 5, 15 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage.</text>
       <text>• If the dragon wishes to move through a wall, it can do so without slowing down. The portion of the wall the dragon moves through is destroyed, however.</text>
       <text>If the dragon dies, the fog and precipitation fade within 1 day. The ice walls melt over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -1621,25 +1621,25 @@ Source: Monster Manual p. 79, Tomb of Annihilation, Waterdeep: Dragon Heist</des
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Pools of water that the dragon can see within 120 feet of it surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 15 Strength saving throw or be pulled up to 20 feet into the water and knocked prone.</text>
       <text>• A cloud of swarming insects fills a 20-foot-radius sphere centered on a point the dragon chooses within 120 feet of it. The cloud spreads around corners and remains until the dragon dismisses it as an action, uses this lair action again, or dies. The cloud is lightly obscured. Any creature in the cloud when it appears must make on a DC 15 Constitution saving throw, taking 10 (3d6) piercing damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud takes 10 (3d6) piercing damage.</text>
       <text>• Magical darkness spreads from a point the dragon chooses within 60 feet of it, filling a 15-foot-radius sphere until the dragon dismisses it as an action, uses this lair action again, or dies. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If any of the effect's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary black dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• The land within 6 miles of the lair takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.</text>
       <text>• Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the dragon that drink such water regurgitate it within minutes.</text>
       <text>• Fog lightly obscures the land within 6 miles of the lair.</text>
       <text>If the dragon dies, vegetation remains as it has grown, but other effects fade over 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -1725,25 +1725,25 @@ Source: Monster Manual p. 87</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be knocked prone and buried. The buried target is restrained and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success.</text>
       <text>• A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <text>• Lightning arcs, forming a 5-foot-wide line between two of the lair's solid surfaces that the dragon can see. They must be within 120 feet of the dragon and 120 feet of each other. Each creature in that line must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) lightning damage.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary blue dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Thunderstorms rage within 6 miles of the lair.</text>
       <text>• Dust devils scour the land within 6 miles of the lair. A dust devil has the statistics of an air elemental, but it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma of 1 (-5).</text>
       <text>• Hidden sinkholes form in and around the dragon's lair. A sinkhole can be spotted from a safe distance with a successful DC 20 Wisdom (Perception) check. Otherwise, the first creature to step on the thin crust covering the sinkhole must succeed on a DC 15 Dexterity saving throw or fall 1d6 x 10 feet into the sinkhole.</text>
       <text>If the dragon dies, the dust devils disappear immediately, and the thunderstorms abate within 1d10 days. Any sinkholes remain where they are.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -1836,24 +1836,24 @@ Source: Monster Manual p. 90, Mythic Odysseys of Theros, Tasha's Cauldron of Eve
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• A strong wind blows around the dragon. Each creature within 60 feet of the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked prone. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames; such as lanterns, have a 50 percent chance of being extinguished.</text>
       <text>• A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in it must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary brass dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Tracks appear in the sand within 6 miles of the dragon's lair. The tracks lead to safe shelters and hidden water sources, while also leading away from areas that the dragon prefers to remain undisturbed.</text>
       <text>• Images of Large or smaller monsters haunt the desert sands within 1 mile of the dragon's lair. These illusions move and appear real, although they can do no harm. A creature that examines an image from a distance can tell it's an illusion with a successful DC 20 Intelligence (Investigation) check. Any physical interaction with an image reveals it to be an illusion, because objects pass through it.</text>
       <text>• Whenever a creature with an Intelligence of 3 or higher comes within 30 feet of a water source within 1 mile of the dragon's lair, the dragon becomes aware of the creature's presence and location.</text>
       <text>If the dragon dies, the tracks fade in 1d10 days, but the other effects fade immediately.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -1950,24 +1950,24 @@ Source: Monster Manual p. 104</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• The dragon creates fog as though it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
       <text>• A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (1d10) thunder damage and be deafened until the end of its next turn.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary bronze dragon's lair is warped by the dragon's magic.</text>
       <text>• Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.</text>
       <text>• Underwater plants within 6 miles of the dragon's lair take on dazzlingly brilliant hues.</text>
       <text>• Within its lair, the dragon can set illusory sounds, such as soft music and strange echoes, so that they can be heard in various parts of the lair.</text>
       <text>If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -2060,24 +2060,24 @@ Source: Monster Manual p. 107, Ghosts of Saltmarsh</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the spike growth spell and lasts until the dragon uses this lair action again or until the dragon dies.</text>
       <text>• The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15 Dexterity saving throw or sink into the mud and become restrained. A creature can take an action to attempt a DC 15 Strength check, freeing itself or another creature within its reach and ending the restrained condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary copper dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Magic carvings of the dragon's smiling visage can be seen worked into stone terrain and objects within 6 miles of the dragon's lair.</text>
       <text>• Tiny beasts such as rodents and birds that are normally unable to speak gain the magical ability to speak and understand Draconic while within 1 mile of the dragon's lair. These creatures speak well of the dragon, but can't divulge its whereabouts.</text>
       <text>• Intelligent creatures within 1 mile of the dragon's lair are prone to fits of giggling. Even serious matters suddenly seem amusing.</text>
       <text>If the dragon dies, the magic carvings fade over the course of 1d10 days. The other effects end immediately.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -2174,24 +2174,24 @@ Source: Monster Manual p. 110, Baldur's Gate: Descent Into Avernus</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.</text>
       <text>• One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon's lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.</text>
       <text>• Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's lair. The mist doesn't obscure anything. It assumes haunting forms when evil creatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.</text>
       <text>• Gems and pearls within 1 mile of the dragon's lair sparkle and gleam, shedding dim light in a 5-foot radius.</text>
       <text>If the dragon dies, these effects end immediately.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -2281,26 +2281,26 @@ Source: Monster Manual p. 113</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Grasping roots and vines erupt in a 20-foot radius centered on a point on the ground that the dragon can see within 120 feet of it. That area becomes difficult terrain, and each creature there must succeed on a DC 15 Strength saving throw or be restrained by the roots and vines. A creature can be freed if it or another creature takes an action to make a DC 15 Strength check and succeeds. The roots and vines wilt away when the dragon uses this lair action again or when the dragon dies.</text>
       <text>• A wall of tangled brush bristling with thorns springs into existence on a solid surface within 120 feet of the dragon. The wall is up to 60 feet long, 10 feet high, and 5 feet thick, and it blocks line of sight. When the wall appears, each creature in its area must make a DC 15 Dexterity saving throw. A creature that fails the save takes 18 (4d8) piercing damage and is pushed 5 feet out of the wall's space, appearing on whichever side of the wall it wants. A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature travels through the wall, it must spend 4 feet of movement. Furthermore, a creature in the wall's space must make a DC 15 Dexterity saving throw once each round it's in contact with the wall, taking 18 (4d8) piercing damage on a failed save, or half as much damage on a successful one. Each 10-foot section of wall has AC 5, 15 hit points, vulnerability to fire damage, resistance to bludgeoning and piercing damage, and immunity to psychic damage. The wall sinks back into the ground when the dragon uses this lair action again or when the dragon dies.</text>
       <text>• Magical fog billows around one creature the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Wisdom saving throw or be charmed by the dragon until initiative count 20 on the next round.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary green dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Thickets form labyrinthine passages within 1 mile of the dragon's lair. The thickets act as 10-foot-high, 10-foot-thick walls that block line of sight. Creatures can move through the thickets, with every 1 foot a creature moves costing it 4 feet of movement. A creature in the thickets must make a DC 15 Dexterity saving throw once each round it's in contact with the 'thickets or take 3 (1d6) piercing damage from thorns.</text>
       <text>• Each 10-foot-cube of thickets has AC 5, 30 hit points, resistance to bludgeoning and piercing damage, vulnerability to fire damage, and immunity to psychic and thunder damage.</text>
       <text>• Within 1 mile of its lair, the dragon leaves no physical evidence of its passage unless it wishes to. Tracking it there is impossible except by magical means. In addition, it ignores movement impediments and damage from plants in this area that are neither magical nor creatures, including the thickets described above. The plants remove themselves from the dragon's path.</text>
       <text>• Rodents and birds within 1 mile of the dragon's lair serve as the dragon's eyes and ears. Deer and other large game are strangely absent, hinting at the presence of an unnaturally hungry predator.</text>
       <text>If the dragon dies, the rodents and birds lose their supernatural link to it. The thickets remain, but within 1d10 days, they become mundane plants and normal difficult terrain, losing their thorns.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -2386,25 +2386,25 @@ Source: Monster Manual p. 93, Storm King's Thunder, Essentials Kit: Dragon of Ic
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.</text>
       <text>• A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.</text>
       <text>• Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads a round corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Small earthquakes are common within 6 miles of the dragon's lair.</text>
       <text>• Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.</text>
       <text>• Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.</text>
       <text>If the dragon dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -2497,24 +2497,24 @@ Source: Monster Manual p. 97, Storm King's Thunder, Mythic Odysseys of Theros, T
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• The dragon creates fog as if it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
       <text>• A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.</text>
       <text>• Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.</text>
       <text>• Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.</text>
       <text>• Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.</text>
       <text>If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -2604,26 +2604,26 @@ Source: Monster Manual p. 116</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Freezing fog fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The fog spreads around corners, and its area is heavily obscured. Each creature in the fog when it appears must make a DC 10 Constitution saving throw, taking 10 (3d6) cold damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the fog takes 10 (3d6) cold damage. A wind of at least 20 miles per hour disperses the fog. The fog otherwise lasts until the dragon uses this lair action again or until the dragon dies.</text>
       <text>• Jagged ice shards fall from the ceiling, striking up to three creatures underneath that the dragon can see within 120 feet of it. The dragon makes one ranged attack roll (+7 to hit) against each target. On a hit, the target takes 10 (3d6) piercing damage.</text>
       <text>• The dragon creates an opaque wall of ice on a solid surface it can see within 120 feet of it. The wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall appears, each creature within its area is pushed 5 feet out of the wall's space; appearing on whichever side of the wall it wants. Each 10-foot section of the wall has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. The wall disappears when the dragon uses this lair action again or when the dragon dies.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary white dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Chilly fog lightly obscures the land within 6 miles of the dragon's lair.</text>
       <text>• Freezing precipitation falls within 6 miles of the dragon's lair, sometimes forming blizzard conditions when the dragon is at rest.</text>
       <text>• Icy walls block off areas in the dragon's lair. Each wall is 6 inches thick, and a 10-foot section has AC 5, 15 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage.</text>
       <text>• If the dragon wishes to move through a wall, it can do so without slowing down. The portion of the wall the dragon moves through is destroyed, however.</text>
       <text>If the dragon dies, the fog and precipitation fade within 1 day. The ice walls melt over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the two broad categories of chromatic and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, and silver dragons are noble, good, and highly respected by the wise.
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
@@ -2702,16 +2702,16 @@ Source: Monster Manual p. 100, Storm King's Thunder, Explorer's Guide to Wildemo
         <name>Cast a Spell (Costs 3 Actions)</name>
       <text>The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can't use an effect again until it finishes a short or long rest:</text>
       <text>• The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.</text>
       <text>• The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become 1d20 years older or younger (the sphinx's choice), but never any younger than 1 year old. A greater restoration spell can restore a creature's age to normal.</text>
       <text>• The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A wish spell can return the caster and up to seven other creatures designated by the caster to their normal time.</text>
       <text>• The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:</text>
@@ -4161,25 +4161,25 @@ Source: Monster Manual p. 25, Tales from the Yawning Portal, Explorer's Guide to
         <name>Eye Ray</name>
       <text>The beholder uses one random eye ray.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>When fighting inside its lair, a beholder can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the beholder can take one lair action to cause one of the following effects:</text>
       <text>• A 50-foot-square area of ground within 120 feet of the beholder becomes slimy; that area is difficult terrain until initiative count 20 on the next round.</text>
       <text>• Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder's choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be grappled. Escaping requires a successful DC 15 Strength (Athletics) or Dexterity (Acrobatics) check.</text>
       <text>• An eye opens on a solid surface within 60 feet of the beholder. One random eye ray of the beholder shoots from that eye at a target of the beholder's choice that it can see. The eye then closes and disappears.</text>
       <text>The beholder can't repeat an effect until they have all been used, and it can't use the same effect two rounds in a row.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A region containing a beholder's lair is warped by the creature's unnatural presence, which creates one or more of the following effects:</text>
       <text>• Creatures within 1 mile of the beholder's lair sometimes feel as if they're being watched when they aren't.</text>
       <text>• When the beholder sleeps, minor warps in reality occur within 1 mile of its lair and then vanish 24 hours later. Marks on cave walls might change subtly, an eerie trinket might appear where none existed before, harmless slime might coat a statue, and so on. These effects apply only to natural surfaces and to nonmagical objects that aren't on anyone's person.</text>
       <text>If the beholder dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
 A beholder's spheroid body levitates at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert.
 Xenophobic Isolationists. Enemies abound, or so every beholder believes. Beholders are convinced that other creatures resent them for their brilliance and magical power, even as they dismiss those lesser creatures as crude and disgusting. Beholders always suspect others of plotting against them, even when no other creatures are around.
@@ -6949,25 +6949,25 @@ Source: Monster Manual p. 278, Curse of Strahd, Waterdeep: Dungeon of the Mad Ma
         <name>Eye Ray</name>
       <text>The death tyrant uses one random eye ray.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>When fighting inside its lair, a death tyrant can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the death tyrant can take one lair action to cause one of the following effects:</text>
       <text>• An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and difficult terrain until initiative count 20 on the next round.</text>
       <text>• Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be grappled. Escaping requires a successful DC 17 Strength (Athletics) or Dexterity (Acrobatics) check.</text>
       <text>• A spectral eye opens in the air at a point within 50 feet of the tyrant. One random eye ray of the tyrant shoots from that eye, which is considered to be an ethereal source, at a target of the tyrant's choice. The eye then closes and disappears.</text>
       <text>The death tyrant can't repeat an effect until all three have been used, and it can't use the same effect on consecutive rounds.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A region containing a death tyrant's lair is warped by the creature's unnatural presence, which creates one or more of the following effects:</text>
       <text>• Creatures within 1 mile of the tyrant's lair sometimes feel as if they're being watched even when they aren't.</text>
       <text>• When a creature hostile to the tyrant and aware of its existence finishes a long rest within 1 mile of the tyrant's lair, roll a d20 for that creature. On a roll of 10 or lower, the creature is subjected to one random eye ray of the tyrant.</text>
       <text>If the death tyrant dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>On rare occasions, a beholder's sleeping mind drifts to places beyond its normal madness, imagining a reality in which it exists beyond death. When such dreams take hold, a beholder can transform, its flesh sloughing away to leave a death tyrant behind. This monster possesses the cunning and much of the magic it had in life, but it is fueled by the power of undeath. A death tyrant appears as a massive, naked skull, with a pinpoint of red light gleaming in its hollow eye socket. With its eyestalks rotted away, ten spectral eyes hover above the creature and glare in all directions.
 Deathly Despot. As they did when they were beholders, death tyrants lord their power over other creatures. Moreover, a beholder's ability to quash magical energy with its central eye gives way to a more sinister power in a death tyrant, which can transform former slaves and enemies into undead servants.
 Zombies created by a death tyrant are used and discarded as needed. They stand guard at the entrances to the death tyrant's lair or guard its treasure vaults.
@@ -7142,25 +7142,25 @@ Source: Monster Manual p. 321, Hoard of the Dragon Queen, Essentials Kit: Dragon
         <name>Vile Curse (Costs 3 Actions)</name>
       <text>The demilich targets one creature it can see within 30 feet of it. The target must succeed on a DC 15 Wisdom saving throw or be magically cursed. Until the curse ends, the target has disadvantage on attack rolls and saving throws. The target can repeat the saving throw at the end of each of its turns, ending the curse on a success.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the demilich rolls a d20. On a result of 11 or higher, the demilich takes a lair action to cause one of the following effects. It can't use the same effect two rounds in a row.</text>
       <text>• The tomb trembles violently for a moment. Each creature on the floor of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked prone.</text>
       <text>• The demilich targets one creature it can see within 60 feet of it. An antimagic field fills the space of the target, moving with it until initiative count 20 on the next round.</text>
       <text>• The demilich targets any number of creatures it can see within 30 feet of it. No target can regain hit points until initiative count 20 on the next round.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A demilich's tomb might have any or all of the following effects in place:</text>
       <text>• The first time a non-evil creature enters the tomb's area, the creature takes 16 (3d10) necrotic damage.</text>
       <text>• Monsters in the tomb have advantage on saving throws against being charmed or frightened, and against features that turn undead.</text>
       <text>• The tomb is warded against the magical travel of creatures the demilich hasn't authorized. Such creatures can't teleport into or out of the tomb's area or use planar travel to enter or leave it. Effects that allow teleportation or planar travel work within the tomb as long as they aren't used to leave or enter the tomb's area.</text>
       <text>If the demilich is destroyed, these effects fade over the course of 10 days.</text>
-      </legendary>
+      </lair>
     <description>The immortality granted to a lich lasts only as long as it feeds mortal souls to its phylactery. If it falters or fails in that task, its bones turn to dust until only its skull remains. This "demilich" contains only a fragment of the lich's malevolent life force-just enough so that if it is disturbed, these remains rise into the air and assume a wraith-like form. The skull then emits a terrifying howl that can slay the weak-hearted and leave others trembling with fear. Left alone, it sinks back down and returns to the empty peace of its existence.
 Few liches seek to become demiliches, for it means an end to the existence they hoped to preserve by becoming undead. However, time can erode the lich's reason and memory, causing it to retreat into its ancient tomb and forget to feed on souls. The spells it once knew fade from its mind, and it no longer channels the arcane energy it wielded as a lich. However, even as a mere skull it remains a deadly and vexing enemy.
 Enduring Existence. Even after a lich is reduced to a demilich state, its phylactery survives. As long as its phylactery is intact, the demilich can't be permanently destroyed. Its skull reforms after 1d10 days, restoring the creature to its wretched state. If it has the presence of mind to do so, a demilich can reclaim its former power by feeding just one soul to its phylactery. Doing so restores the demilich to lich form, reconstituting its undead body.
@@ -13418,16 +13418,16 @@ Source: Monster Manual p. 234, Tomb of Annihilation, Ghosts of Saltmarsh</descri
         <name>Cast a Spell (Costs 3 Actions)</name>
       <text>The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can't use an effect again until it finishes a short or long rest:</text>
       <text>• The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.</text>
       <text>• The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become 1d20 years older or younger (the sphinx's choice), but never any younger than 1 year old. A greater restoration spell can restore a creature's age to normal.</text>
       <text>• The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A wish spell can return the caster and up to seven other creatures designated by the caster to their normal time.</text>
       <text>• The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:</text>
@@ -15416,25 +15416,25 @@ Source: Monster Manual p. 195, Hoard of the Dragon Queen, Rise of Tiamat, Tales 
         <name>Ink Cloud (Costs 3 Actions)</name>
       <text>While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the kraken takes a lair action to cause one of the following magical effects:</text>
       <text>• A strong current moves through the kraken's lair. Each creature within 60 feet of the kraken must succeed on a DC 23 Strength saving throw or be pushed up to 60 feet away from the kraken. On a success, the creature is pushed 10 feet away from the kraken.</text>
       <text>• Creatures in the water within 60 feet of the kraken have vulnerability to lightning damage until initiative count 20 on the next round.</text>
       <text>• The water in the kraken's lair becomes electrically charged. All creatures within 120 feet of the kraken must succeed on a DC 23 Constitution saving throw, taking 10 (3d6) lightning damage on a failed save, or half as much damage on a successful one.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a kraken's lair is warped by the creature's blasphemous presence, creating the following magical effects:</text>
       <text>• The kraken can alter the weather at will in a 6-mile radius centered on its lair. The effect is identical to the control weather spell.</text>
       <text>• Water elementals coalesce within 6 miles of the lair. These elementals can't leave the water and have Intelligence and Charisma scores of 1 (-5).</text>
       <text>• Aquatic creatures within 6 miles of the lair that have an Intelligence score of 2 or lower are charmed by the kraken and aggressive toward intruders in the area.</text>
       <text>When the kraken dies, all of these regional effects fade immediately.</text>
-      </legendary>
+      </lair>
     <description>Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
 Leviathans of Legend. At the beginning of time, krakens served as fierce warriors of the gods. When the gods' wars ended, the krakens shrugged free of their servitude, never again to be bound by other beings. Whole nations quake in fear when the kraken emerges from its dark demesne, and even in the middle of the deepest oceans, storms rise or abate according to its will. The kraken is a primeval force that obliterates the greatest achievements of civilization as if they were castles in the sand. Its devastating attacks can destroy ocean trade and halt communication between coastal cities.
 An ominous darkness presages a kraken's attack, and a cloud of inky poison colors the water around it. Galleons and warships vanish when its tentacles uncoil from the deep, the kraken breaking their masts like kindling before drawing down ships and crew. Not even landlocked surface dwellers are safe from a kraken's wrath. Krakens can breathe air as easily as water, and some crawl up rivers to nest in freshwater lakes, destroying cities and towns along the way. Adventurers tell of these monsters lairing in the ruins of lakeside citadels, their tentacles twined around leaning towers of disintegrating stone.
@@ -15972,15 +15972,15 @@ Source: Monster Manual p. 76, Waterdeep: Dragon Heist, Baldur's Gate: Descent In
         <name>Disrupt Life (Costs 3 Actions)</name>
       <text>Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the lich can take a lair action to cause one of the following magical effects; the lich can't use the same effect two rounds in a row:</text>
       <text>• The lich rolls a d8 and regains a spell slot of that level or lower. If it has no spent spell slots of that level or lower, nothing happens.</text>
       <text>• The lich targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the lich to the target. Whenever the lich takes damage, the target must make a DC 18 Constitution saving throw. On a failed save, the lich takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the lich or the target is no longer in the lich's lair.</text>
       <text>• The lich calls forth the spirits of creatures that died in its lair. These apparitions materialize and attack one creature that the lich can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw, taking 52 (15d6) necrotic damage on a failed save, or half as much damage on a success. The apparitions then disappear.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:</text>
@@ -17768,25 +17768,25 @@ Source: Monster Manual p. 228, Rise of Tiamat, Tomb of Annihilation, Waterdeep: 
         <name>Whirlwind of Sand (Costs 2 Actions)</name>
       <text>The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can't use the same effect two rounds in a row:</text>
       <text>• Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.</text>
       <text>• Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.</text>
       <text>• Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:</text>
       <text>• Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.</text>
       <text>• Divination spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a divination spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.</text>
       <text>• A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a remove curse spell or other magic.</text>
       <text>If the mummy lord is destroyed, these regional effects end immediately.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:</text>

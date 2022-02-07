@@ -71,25 +71,25 @@
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.</text>
       <text>• A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.</text>
       <text>• Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads a round corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Small earthquakes are common within 6 miles of the dragon's lair.</text>
       <text>• Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.</text>
       <text>• Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.</text>
       <text>If the dragon dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>
 Source: Plane Shift: Amonkhet p. 33</description>
     <environment>mountain, hill</environment>
@@ -298,16 +298,16 @@ Source: Plane Shift: Amonkhet p. 35</description>
         <name>Cast a Spell (Costs 3 Actions)</name>
       <text>The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can't use an effect again until it finishes a short or long rest:</text>
       <text>• The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.</text>
       <text>• The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become 1d20 years older or younger (the sphinx's choice), but never any younger than 1 year old. A greater restoration spell can restore a creature's age to normal.</text>
       <text>• The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A wish spell can return the caster and up to seven other creatures designated by the caster to their normal time.</text>
       <text>• The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:</text>
@@ -396,25 +396,25 @@ Source: Plane Shift: Amonkhet p. 31</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.</text>
       <text>• A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.</text>
       <text>• Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads a round corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Small earthquakes are common within 6 miles of the dragon's lair.</text>
       <text>• Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.</text>
       <text>• Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.</text>
       <text>If the dragon dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>
 Source: Plane Shift: Amonkhet p. 33</description>
     <environment>mountain, hill</environment>
@@ -985,25 +985,25 @@ Source: Plane Shift: Amonkhet p. 36</description>
         <name>Whirlwind of Sand (Costs 2 Actions)</name>
       <text>The marauder magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the marauder is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the marauder remain in its possession.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can't use the same effect two rounds in a row:</text>
       <text>• Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.</text>
       <text>• Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.</text>
       <text>• Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:</text>
       <text>• Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.</text>
       <text>• Divination spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a divination spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.</text>
       <text>• A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a remove curse spell or other magic.</text>
       <text>If the mummy lord is destroyed, these regional effects end immediately.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>The marauder is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The marauder has the following cleric spells prepared:</text>

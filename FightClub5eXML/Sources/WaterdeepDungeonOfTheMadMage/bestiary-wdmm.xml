@@ -356,15 +356,15 @@ Source: Waterdeep: Dungeon of the Mad Mage p. 299</description>
         <name>Disrupt Life (Costs 3 Actions)</name>
       <text>Each non-undead creature within 20 feet of Arcturia must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the lich can take a lair action to cause one of the following magical effects; the lich can't use the same effect two rounds in a row:</text>
       <text>• The lich rolls a d8 and regains a spell slot of that level or lower. If it has no spent spell slots of that level or lower, nothing happens.</text>
       <text>• The lich targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the lich to the target. Whenever the lich takes damage, the target must make a DC 18 Constitution saving throw. On a failed save, the lich takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the lich or the target is no longer in the lich's lair.</text>
       <text>• The lich calls forth the spirits of creatures that died in its lair. These apparitions materialize and attack one creature that the lich can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw, taking 52 (15d6) necrotic damage on a failed save, or half as much damage on a success. The apparitions then disappear.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>Arcturia is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). Arcturia has the following wizard spells prepared:</text>
@@ -456,25 +456,25 @@ Source: Waterdeep: Dungeon of the Mad Mage p. 296</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>Ashtyrranthor beats its wings. Each creature within 10 feet of Ashtyrranthor must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. Ashtyrranthor can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.</text>
       <text>• A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.</text>
       <text>• Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads a round corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Small earthquakes are common within 6 miles of the dragon's lair.</text>
       <text>• Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.</text>
       <text>• Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.</text>
       <text>If the dragon dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>
 Source: Waterdeep: Dungeon of the Mad Mage p. 210</description>
     <environment>mountain, hill</environment>
@@ -1443,15 +1443,15 @@ Source: Waterdeep: Dungeon of the Mad Mage p. 185</description>
         <name>Disrupt Life (Costs 3 Actions)</name>
       <text>Each non-undead creature within 20 feet of Ezzat must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the lich can take a lair action to cause one of the following magical effects; the lich can't use the same effect two rounds in a row:</text>
       <text>• The lich rolls a d8 and regains a spell slot of that level or lower. If it has no spent spell slots of that level or lower, nothing happens.</text>
       <text>• The lich targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the lich to the target. Whenever the lich takes damage, the target must make a DC 18 Constitution saving throw. On a failed save, the lich takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the lich or the target is no longer in the lich's lair.</text>
       <text>• The lich calls forth the spirits of creatures that died in its lair. These apparitions materialize and attack one creature that the lich can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw, taking 52 (15d6) necrotic damage on a failed save, or half as much damage on a success. The apparitions then disappear.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>Ezzat is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). Ezzat has the following wizard spells prepared:</text>
@@ -1893,24 +1893,24 @@ Source: Waterdeep: Dungeon of the Mad Mage p. 143</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>Glyster beats its wings. Each creature within 10 feet of Glyster must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. Glyster can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• The dragon creates fog as though it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
       <text>• A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (1d10) thunder damage and be deafened until the end of its next turn.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary bronze dragon's lair is warped by the dragon's magic.</text>
       <text>• Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.</text>
       <text>• Underwater plants within 6 miles of the dragon's lair take on dazzlingly brilliant hues.</text>
       <text>• Within its lair, the dragon can set illusory sounds, such as soft music and strange echoes, so that they can be heard in various parts of the lair.</text>
       <text>If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>
 Source: Waterdeep: Dungeon of the Mad Mage p. 241</description>
     <environment>coastal</environment>
@@ -1993,25 +1993,25 @@ Source: Waterdeep: Dungeon of the Mad Mage p. 241</description>
         <name>Whirlwind of Sand (Costs 2 Actions)</name>
       <text>The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can't use the same effect two rounds in a row:</text>
       <text>• Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.</text>
       <text>• Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.</text>
       <text>• Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:</text>
       <text>• Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.</text>
       <text>• Divination spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a divination spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.</text>
       <text>• A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a remove curse spell or other magic.</text>
       <text>If the mummy lord is destroyed, these regional effects end immediately.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:</text>
@@ -2140,24 +2140,24 @@ Source: Waterdeep: Dungeon of the Mad Mage p. 150</description>
         <name>Spell Ward (Costs 2 Actions)</name>
       <text>Halaster expends a spell slot of 4th level or lower and gains 5 temporary hit points per level of the slot.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), Halaster takes a lair action to cause one of the following effects:</text>
       <text>• Halaster targets a volume of unoccupied space or solid stone no larger than four 10-foot cubes within 30 feet of him, turning the open space to solid, worked stone or vice versa.</text>
       <text>• Halaster causes one door or archway within 30 feet of him to disappear and be replaced by a blank wall, or he restores a door or an archway previously removed in this way.</text>
       <text>• Halaster deactivates or reactivates one of Undermountain's magic gates. The gate must be within 120 feet of him.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>When Halaster is in Undermountain, the following effects can occur in any location within the dungeon or in any extraplanar extension of the dungeon:</text>
       <text>• A magical scrying sensor appears, taking the form of a ghostly, 1-foot-diameter humanoid eye surrounded by motes of light. The sensor is stationary, though Halaster can reorient the eye to face in any direction. Halaster can see through the eye as though he was in its space. The eye can't be harmed or dispelled, but it winks out within an antimagic field. A scrying eye lasts until Halaster ends the effect (no action required).</text>
       <text>• A minor illusory effect is triggered, as though Halaster had cast minor illusion in an area. Common illusions include the echo of rattling chains, the distant sound of explosive spells being cast, a dusty cloak or a rusty helm floating as though worn by an invisible figure, and illusory footprints appearing on a dusty floor.</text>
       <text>• Silent apparitions of dead adventurers drift through halls and rooms as though they are lost. An apparition can't be harmed, and it doesn't acknowledge creatures or objects in any way. It can't be dispelled but is suppressed within an antimagic field.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks). He can cast disguise self and invisibility at will. He can cast fly and lightning bolt once each without expending a spell slot, but can't do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:</text>
@@ -4300,24 +4300,24 @@ Source: Waterdeep: Dungeon of the Mad Mage p. 251</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• The dragon creates fog as if it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
       <text>• A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.</text>
       <text>• Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.</text>
       <text>• Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.</text>
       <text>• Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.</text>
       <text>If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>
 Source: Waterdeep: Dungeon of the Mad Mage p. 273</description>
     <environment>mountain, urban</environment>
@@ -4820,24 +4820,24 @@ Source: Waterdeep: Dungeon of the Mad Mage p. 294</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
       <text>• The dragon creates fog as though it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
       <text>• A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (1d10) thunder damage and be deafened until the end of its next turn.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary bronze dragon's lair is warped by the dragon's magic.</text>
       <text>• Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.</text>
       <text>• Underwater plants within 6 miles of the dragon's lair take on dazzlingly brilliant hues.</text>
       <text>• Within its lair, the dragon can set illusory sounds, such as soft music and strange echoes, so that they can be heard in various parts of the lair.</text>
       <text>If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>
 Source: Waterdeep: Dungeon of the Mad Mage p. 241</description>
     <environment>coastal</environment>

@@ -3076,25 +3076,25 @@ Source: Tales from the Yawning Portal p. 131</description>
         <name>Whirlwind of Sand (Costs 2 Actions)</name>
       <text>The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can't use the same effect two rounds in a row:</text>
       <text>• Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.</text>
       <text>• Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.</text>
       <text>• Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:</text>
       <text>• Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.</text>
       <text>• Divination spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a divination spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.</text>
       <text>• A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a remove curse spell or other magic.</text>
       <text>If the mummy lord is destroyed, these regional effects end immediately.</text>
-      </legendary>
+      </lair>
     <trait>
         <name>Spellcasting</name>
       <text>The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:</text>
@@ -3931,26 +3931,25 @@ Source: Tales from the Yawning Portal p. 132</description>
         <name>Psychic Drain (Costs 2 Actions)</name>
       <text>One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>When fighting inside its lair, an aboleth can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the aboleth takes a lair action to cause one of the following effects:</text>
       <text>• The aboleth casts phantasmal force (no components required) on any number of creatures it can see within 60 feet of it. While maintaining concentration on this effect, the aboleth can't take other lair actions. If a target succeeds on the saving throw or if the effect ends for it, the target is immune to the aboleth's phantasmal force lair action for the next 24 hours, although such a creature can choose to be affected.</text>
       <text>• Pools of water within 90 feet of the aboleth surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 14 Strength saving throw or be pulled up to 20 feet into the water and knocked prone. The aboleth can't use this lair action again until it has used a different one.</text>
       <text>• Water in the aboleth's lair magically becomes a conduit for the creature's rage. The aboleth can target any number of creatures it can see in such water within 90 feet of it. A target must succeed on a DC 14 Wisdom saving throw or take 7 (2d6) psychic damage. The aboleth can't use this lair action again until it has used a different one.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing an aboleth's lair is warped by the creature's presence, which creates one or more of the following effects:</text>
       <text>• Underground surfaces within 1 mile of the aboleth's lair are slimy and wet and are difficult terrain.</text>
       <text>• Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the aboleth that drink such water vomit it within minutes.</text>
       <text>• As an action, the aboleth can create an illusory image of itself within 1 mile of the lair. The copy can appear at any location the aboleth has seen before or in any location a creature charmed by the aboleth can currently see. Once created, the image lasts for as long as the aboleth maintains concentration, as if concentrating on a spell. Although the image is intangible, it looks, sounds, and can move like the aboleth. The aboleth can sense, speak, and use telepathy from the image's position as if present at that position. If the image takes any damage, it disappears.</text>
       <text>If the aboleth dies, the first two effects fade over the course of 3d10 days.</text>
-      </legendary>
-    <spells></spells>
+      </lair>
     <description>
 Source: Tales from the Yawning Portal p. 113</description>
     <environment>underdark</environment>
@@ -4103,26 +4102,25 @@ Source: Tales from the Yawning Portal p. 113</description>
         <name>Eye Ray</name>
       <text>The beholder uses one random eye ray.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>When fighting inside its lair, a beholder can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the beholder can take one lair action to cause one of the following effects:</text>
       <text>• A 50-foot-square area of ground within 120 feet of the beholder becomes slimy; that area is difficult terrain until initiative count 20 on the next round.</text>
       <text>• Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder's choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be grappled. Escaping requires a successful DC 15 Strength (Athletics) or Dexterity (Acrobatics) check.</text>
       <text>• An eye opens on a solid surface within 60 feet of the beholder. One random eye ray of the beholder shoots from that eye at a target of the beholder's choice that it can see. The eye then closes and disappears.</text>
       <text>The beholder can't repeat an effect until they have all been used, and it can't use the same effect two rounds in a row.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A region containing a beholder's lair is warped by the creature's unnatural presence, which creates one or more of the following effects:</text>
       <text>• Creatures within 1 mile of the beholder's lair sometimes feel as if they're being watched when they aren't.</text>
       <text>• When the beholder sleeps, minor warps in reality occur within 1 mile of its lair and then vanish 24 hours later. Marks on cave walls might change subtly, an eerie trinket might appear where none existed before, harmless slime might coat a statue, and so on. These effects apply only to natural surfaces and to nonmagical objects that aren't on anyone's person.</text>
       <text>If the beholder dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
-    <spells></spells>
+      </lair>
     <description>
 Source: Tales from the Yawning Portal p. 113</description>
     <environment>underdark</environment>

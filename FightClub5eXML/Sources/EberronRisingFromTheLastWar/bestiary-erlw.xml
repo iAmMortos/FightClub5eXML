@@ -95,25 +95,25 @@
         <name>Rend Reality (Costs 3 Actions)</name>
       <text>Belashyrra rips at the bonds of reality in its immediate area. Each creature within 10 feet of Belashyrra must succeed on a DC 22 Constitution saving throw or take 19 (3d12) force damage and gain one level of exhaustion.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>While within the Citadel of Lidless Eyes, Belashyrra can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), Belashyrra can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:</text>
       <text>• An eye opens on a solid surface within 60 feet of Belashyrra. One random eye ray of Belashyrra's shoots from that eye at a target of Belashyrra's choice that it can see. The eye then closes and disappears.</text>
       <text>• Belashyrra creates a wave of madness. Each creature it can see within its lair must succeed on a DC 22 Wisdom saving throw or be charmed for 1 minute. While charmed in this way, a creature must use its action at the start of its turn before moving to make a melee attack against another creature of Belashyrra's choice within reach. If there are no creatures within reach, the charmed creature can act normally for that turn. A charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <text>• Belashyrra taps into the eyesight of creatures in its lair and alters their perception. Each creature of Belashyrra's choice in the lair must make a DC 22 Wisdom saving throw. On a failure, the affected creature perceives objects and creatures a short distance from their actual locations, imposing disadvantage on the creature's attack rolls against those targets. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to this lair action for the next 24 hours.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>Belashyrra's lair is known to touch remote areas of the Shadow Marches and caverns below Xen'drik. A region containing a passage to Belashyrra's lair is warped by its magic, which creates one or more of the following effects:</text>
       <text>• Creatures within 1 mile of the passage sometimes feel as if they're being watched.</text>
       <text>• Beasts that live within 5 miles of the passage undergo magical transmutation, growing eyes or eyestalks that Belashyrra can see through.</text>
       <text>• A humanoid who spends at least 1 hour within 1 mile of the passage must succeed on a DC 21 Wisdom saving throw or descend into a type of madness (see "Madness of Belashyrra" below). A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.</text>
       <text>If Belashyrra dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>Dreadful Visions. The madness of Belashyrra is tied to sight: images that can't be unseen, horrific hallucinations, the fear of blindness and of being watched—or realizing that something else is using your eyes. Belashyrra can force its victims to question whether what they perceive is real, or can fill their world with such terrors that they willingly blind themselves to escape.
 Belashyrra sees mortals as raw materials to be exploited or insects to be exterminated. However, the Lord of Eyes has been known to take an interest in specific mortals. Belashyrra's warlocks serve as its envoys in the world and are often directed to seek out creatures and sites that the daelkyr wishes to see through their eyes.
 Belashyrra's Cults. The Lord of Eyes has followers across Khorvaire, and its cults are typically driven by mad visions. Devoted cultists can grow eyes in unusual locations, and might have darkvision or other supernatural abilities when they view the world through those eyes. Beholderkin often advise or lead Belashyrra's cults, and cultists typically treat these aberrations as divine beings.
@@ -607,25 +607,25 @@ Source: Eberron: Rising from the Last War p. 292</description>
         <name>Mind Blast (Costs 3 Actions)</name>
       <text>Dyrrn magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 23 Intelligence saving throw or take 30 (5d8 + 8) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>While within the Palace of Sinew, Dyrrn can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), Dyrrn can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:</text>
       <text>• Dyrrn uses its Corruption action.</text>
       <text>• A 30-foot-square area of ground within 120 feet of Dyrrn sprouts tentacles until initiative count 20 on the next round. Any creature that starts or ends its turn in the area must succeed on a DC 23 Strength saving throw or be restrained. A creature can escape the tentacles with a successful DC 23 Strength (Athletics) or Dexterity (Acrobatics) check as an action.</text>
       <text>• Each creature of Dyrrn's choice that it can see within 120 feet of it must succeed on a DC 23 Wisdom saving throw or take 26 (4d12) psychic damage. Unless the target has immunity to psychic damage, its Intelligence score is reduced by 1d4 each time it fails the saving throw for this lair action. The target dies if its Intelligence score is reduced to 0. The reduction lasts until the target finishes a short or long rest.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A region containing a passage to Dyrrn's lair is warped in one or more of these ways:</text>
       <text>• Plants and animals raised within 2 mile of the passage have twisted, aberrant forms. Use the Daelkyr Modifications table for inspiration.</text>
       <text>• Creatures within 1 mile of the passage frequently feel as if something is crawling under their skin.</text>
       <text>• If a humanoid spends at least 1 hour within 1 mile of the passage, that creature must succeed on a DC 22 Wisdom saving throw or descend into a type of madness (see "Madness of Dyrrn" below). A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.</text>
       <text>If Dyrrn dies, these effects fade away after 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>Twisting Flesh and Thought. The mind flayers of Eberron know Dyrrn as the Overmind, and it serves as the cornerstone of their collective consciousness. Of all the daelkyr, the Corruptor is the most adept at twisting minds and bodies to create monsters. It was Dyrrn who turned goblinoid prisoners into the first dolgaunts and dolgrims, creating the legions that would savage the nations of Khorvaire. Dyrrn is also a prolific creator of symbionts—treasures that tempt people to bind alien entities to their flesh.
 Dyrrn's Cults. Dyrrn's lair touches the Eldeen Reaches, and the druids of the Towering Wood are always watching for Dyrrn's influence. At the start of the Last War, the dwarves of the Mror Holds discovered passages to the daelkyr's realm below their halls, and Dyrrn's cults have spread from there.
 Mind flayers often work with Dyrrn's cults, many of which are obsessed with evolution—through the use of symbionts or by becoming an aberration. Those who worship the Stealer of Thoughts believe that Dyrrn will consume all sentient beings, except for its servants.

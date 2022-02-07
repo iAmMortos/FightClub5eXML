@@ -1224,15 +1224,15 @@ Source: Infernal Machine Rebuild p. 86</description>
         <name>Ink Cloud (Costs 3 Actions)</name>
       <text>While underwater, the thessalkraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the thessalkraken. Each creature other than the thessalkraken that ends its turn there must succeed on a DC 18 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the thessalkraken's next turn.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the thessalkraken takes a lair action to cause one of the following magical effects:</text>
       <text>• A strong current moves through the thessalkraken's lair. Each creature within 60 feet of the thessalkraken must succeed on a DC 18 Strength saving throw or be pushed up to 60 feet away from the thessalkraken. On a success, the creature is pushed 10 feet away from the thessalkraken.</text>
       <text>• Creatures in the water within 60 feet of the thessalkraken have vulnerability to acid damage until initiative count 20 on the next round.</text>
       <text>• The alluring gleam of treasure beneath the water in the thessalkraken's lair compels potential victims to draw near. Each creature within 120 feet of the thessalkraken must succeed on a DC 18 Wisdom saving throw or move 10 feet closer to the thessalkraken if able to do so.</text>
-      </legendary>
+      </lair>
     <description>The alchemist Thessalar created unknown numbers of misshapen magical creatures, including his many thessalbeasts. Among the largest was the thessalkraken—a slightly smaller variant of the legendary kraken, resembling that great tentacled titan but with a jagged-toothed maw that drips constantly with acid.
 A thessalkraken lives in the dark depths, usually a sunken rift or a cavern filled with detritus, treasure, and the remains of sacrificial victims.
 Source: Infernal Machine Rebuild p. 87</description>

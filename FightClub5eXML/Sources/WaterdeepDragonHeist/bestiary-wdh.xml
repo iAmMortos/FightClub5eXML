@@ -188,24 +188,24 @@ Source: Waterdeep: Dragon Heist p. 193</description>
         <name>Wing Attack (Costs 2 Actions)</name>
       <text>Aurinax beats its wings. Each creature within 10 feet of Aurinax must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. Aurinax can then fly up to half its flying speed.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:</text>
       <text>• The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.</text>
       <text>• One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:</text>
       <text>• Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon's lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.</text>
       <text>• Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's lair. The mist doesn't obscure anything. It assumes haunting forms when evil creatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.</text>
       <text>• Gems and pearls within 1 mile of the dragon's lair sparkle and gleam, shedding dim light in a 5-foot radius.</text>
       <text>If the dragon dies, these effects end immediately.</text>
-      </legendary>
+      </lair>
     <description>
 Source: Waterdeep: Dragon Heist p. 194</description>
     <environment>grassland, forest</environment>
@@ -4664,25 +4664,25 @@ Source: Waterdeep: Dragon Heist p. 62</description>
         <name>Eye Ray</name>
       <text>Xanathar uses one random eye ray.</text>
       </legendary>
-    <legendary>
+    <lair>
         <name>Lair Actions</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>When fighting inside its lair, a beholder can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the beholder can take one lair action to cause one of the following effects:</text>
       <text>• A 50-foot-square area of ground within 120 feet of the beholder becomes slimy; that area is difficult terrain until initiative count 20 on the next round.</text>
       <text>• Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder's choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be grappled. Escaping requires a successful DC 15 Strength (Athletics) or Dexterity (Acrobatics) check.</text>
       <text>• An eye opens on a solid surface within 60 feet of the beholder. One random eye ray of the beholder shoots from that eye at a target of the beholder's choice that it can see. The eye then closes and disappears.</text>
       <text>The beholder can't repeat an effect until they have all been used, and it can't use the same effect two rounds in a row.</text>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <name>Regional Effects</name>
-      </legendary>
-    <legendary>
+      </lair>
+    <lair>
         <text>A region containing a beholder's lair is warped by the creature's unnatural presence, which creates one or more of the following effects:</text>
       <text>• Creatures within 1 mile of the beholder's lair sometimes feel as if they're being watched when they aren't.</text>
       <text>• When the beholder sleeps, minor warps in reality occur within 1 mile of its lair and then vanish 24 hours later. Marks on cave walls might change subtly, an eerie trinket might appear where none existed before, harmless slime might coat a statue, and so on. These effects apply only to natural surfaces and to nonmagical objects that aren't on anyone's person.</text>
       <text>If the beholder dies, these effects fade over the course of 1d10 days.</text>
-      </legendary>
+      </lair>
     <description>
 Source: Waterdeep: Dragon Heist p. 220</description>
     <environment>underdark</environment>
