@@ -5069,9 +5069,12 @@ Source: Mordenkainen's Tome of Foes p. 125, Ghosts of Saltmarsh</description>
       </lair>
     <lair>
         <text>The region containing Juiblex's lair is warped by his magic, creating one or more of the following effects:</text>
-      <text>• Small bodies of water, such as ponds or wells, within 1 mile of the lair turn highly acidic, corroding any object that touches them. Surfaces within 6 miles of the lair are frequently covered by a thin film of slime, which is slick and sticks to anything that touches it.</text>
+        <text>• Small bodies of water, such as ponds or wells, within 1 mile of the lair turn highly acidic, corroding any object that touches them.</text>
+        <text>• Surfaces within 6 miles of the lair are frequently covered by a thin film of slime, which is slick and sticks to anything that touches it.</text>
       <text>• If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 18 Wisdom saving throw or descend into a madness determined by the Madness of Juiblex table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.</text>
       <text>If Juiblex dies, these effects fade over the course of 1d10 days.</text>
+    </lair>
+      <lair>
       <name>Regional Effect: Madness of Juiblex</name>
       <text>If a creature goes mad in Juiblex's lair or within line of sight of the demon lord, roll on the Madness of Juiblex table to determine the nature of the madness, which is a character flaw that lasts until cured. See the Dungeon Master's Guide for more on madness.</text>
       <text>Madness of Juiblex</text>
